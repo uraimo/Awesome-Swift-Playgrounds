@@ -34,6 +34,9 @@ If you see a playground here that does not work anymore with the current release
 
 * [UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.                                                    
 * [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
+* [iOS Animation Samples](https://github.com/JakeLin/iOSAnimationSample) - Experiment with iOS animations.
+* [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
+* [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
