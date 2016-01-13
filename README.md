@@ -24,7 +24,7 @@ If you see a playground here that does not work anymore with the current release
 * [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
-* [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
+* [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
@@ -35,8 +35,11 @@ If you see a playground here that does not work anymore with the current release
 
 * [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers.
 * [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures.
+* [Functors in Swift](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage.
 * [A Swift Introduction to Core Data](https://github.com/andyshep/CoreDataPlayground) - Learn Code Data experimenting directly in this playground.
 * [Swift-Diagram-Playgrounds](https://github.com/alskipp/Swift-Diagram-Playgrounds) - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
+* [SwiftProtocolExtensions](https://github.com/davidahouse/SwiftProtocolExtensions) - A playground to explore Protocol Extensions.
+* [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
 * [ReactiveCocoaPlayground](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa.
 * [SwiftReactivePlayground](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift.
 * [Name](https://) - A Swift Playground.
@@ -73,12 +76,16 @@ If you see a playground here that does not work anymore with the current release
 * [BradLarson Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
 * [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds.
 * [SwiftAccelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
-* [SwiftProtocolExtensions](https://github.com/davidahouse/SwiftProtocolExtensions) - A playground to explore Protocol Extensions.
 * [WikipediaSearcher](https://github.com/rnapier/WikipediaSearcher) - Playground for exploring FP some ideas in Swift.
 * [Swift Playgrounds](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
 * [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
 * [BezierPathPlaygrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [DataStructuresPlayground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift.
+* [Sketchytech SwiftPlaygrounds](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds.
+* [Swiftography](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground.
+* [Name](https://) - A Swift Playground.
+* [Name](https://) - A Swift Playground.
+* [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
