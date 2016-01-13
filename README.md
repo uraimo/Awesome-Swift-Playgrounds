@@ -52,7 +52,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground.
 * [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - A playground for experimenting with multiple additive animations in Core Animation.
-* [Name](https://) - A Swift Playground.
+* [swiftclock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 
@@ -61,6 +61,7 @@ If you see a playground here that does not work anymore with the current release
 *Description*
 
 * [Sprite Kit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
+* [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 
@@ -72,6 +73,13 @@ If you see a playground here that does not work anymore with the current release
 * [BradLarson Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
 * [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds.
 * [SwiftAccelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
+* [SwiftProtocolExtensions](https://github.com/davidahouse/SwiftProtocolExtensions) - A playground to explore Protocol Extensions.
+* [WikipediaSearcher](https://github.com/rnapier/WikipediaSearcher) - Playground for exploring FP some ideas in Swift.
+* [Swift Playgrounds](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
+* [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
+* [BezierPathPlaygrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
+* [DataStructuresPlayground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift.
+* [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
