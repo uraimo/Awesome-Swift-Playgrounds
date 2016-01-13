@@ -22,8 +22,8 @@ If you see a playground here that does not work anymore with the current release
 * [ReactiveCocoaPlayground](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa.
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 * [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
-* [Name](https://) - A Swift Playground.
-* [Name](https://) - A Swift Playground.
+* [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
+* [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
@@ -45,7 +45,7 @@ If you see a playground here that does not work anymore with the current release
 
 * [TurtlePlayground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
 * [BradLarson Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
-* [Name](https://) - A Swift Playground.
-* [Name](https://) - A Swift Playground.
+* [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds.
+* [SwiftAccelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
