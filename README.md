@@ -95,7 +95,7 @@ If you see a playground here that does not work anymore with the current release
 * [BachPlayground](https://github.com/dreamwieber/BachPlayground) - 
 A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 * [swiftyMathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
-* [Name](https://) - A Swift Playground.
-* [Name](https://) - A Swift Playground.
+* [Cananito Playgrounds](https://github.com/Cananito/Playgrounds) - Various playgrounds.
+* [Mgrebenets Playgrounds](https://) - Various playgrounds.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
