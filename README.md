@@ -24,6 +24,7 @@ If you see a playground here that does not work anymore with the current release
 * [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
+* [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
@@ -35,8 +36,18 @@ If you see a playground here that does not work anymore with the current release
 * [UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.                                                    
 * [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [iOS Animation Samples](https://github.com/JakeLin/iOSAnimationSample) - Experiment with iOS animations.
-* [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
+* [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels.
+* [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
+* [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground.
+* [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - A playground for experimenting with multiple additive animations in Core Animation.
+* [Name](https://) - A Swift Playground.
+* [Name](https://) - A Swift Playground.
+* [Name](https://) - A Swift Playground.
+
+### Learning Swift: Advanced Topics
+
 * [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers.
+* [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - A companion Playground for the article "Swift Functors, Applicatves, and Monads in Pictures".
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
@@ -47,5 +58,6 @@ If you see a playground here that does not work anymore with the current release
 * [BradLarson Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
 * [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds.
 * [SwiftAccelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
+* [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
