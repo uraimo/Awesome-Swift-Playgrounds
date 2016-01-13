@@ -25,6 +25,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
+* [swift-worksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
@@ -56,6 +57,8 @@ If you see a playground here that does not work anymore with the current release
 * [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground.
 * [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - A playground for experimenting with multiple additive animations in Core Animation.
 * [swiftclock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground.
+* [WatchKitAssetPlayground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps.
+* [uikit-playground](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 
@@ -83,9 +86,15 @@ If you see a playground here that does not work anymore with the current release
 * [DataStructuresPlayground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift.
 * [Sketchytech SwiftPlaygrounds](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds.
 * [Swiftography](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground.
-* [Name](https://) - A Swift Playground.
-* [Name](https://) - A Swift Playground.
-* [Name](https://) - A Swift Playground.
+* [Swift fun playgrounds](https://github.com/madbat/Swift-fun-playgrounds) - A few playgrounds to showcase Swift peculiar features.
+* [TDDSwiftPlayground](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
+* [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground.
+* [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
+* [Swift-Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
+* [AlgorithmsPlayground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift.
+* [BachPlayground](https://github.com/dreamwieber/BachPlayground) - 
+A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
+* [swiftyMathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
