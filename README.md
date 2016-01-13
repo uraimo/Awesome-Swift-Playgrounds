@@ -10,16 +10,16 @@ If you see a playground here that does not work anymore with the current release
 ### Contents
 
 - [Learning Swift](#learning)
+- [Learning Swift: Advanced Topics](#advanced)
 - [UIKit](#uikit)
+- [SpriteKit](#sprite)
+- [Other](#other)
 
 ### Learning Swift
 *Some interesting playgrounds to learn Swift*
 
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book.
 * [learn-swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book.
-* [A Swift Introduction to Core Data](https://github.com/andyshep/CoreDataPlayground) - Learn Code Data experimenting directly in this playground.
-* [Swift-Diagram-Playgrounds](https://github.com/alskipp/Swift-Diagram-Playgrounds) - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
-* [ReactiveCocoaPlayground](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa.
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 * [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
@@ -30,6 +30,18 @@ If you see a playground here that does not work anymore with the current release
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 
+### Learning Swift: Advanced Topics
+*Description*
+
+* [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers.
+* [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures.
+* [A Swift Introduction to Core Data](https://github.com/andyshep/CoreDataPlayground) - Learn Code Data experimenting directly in this playground.
+* [Swift-Diagram-Playgrounds](https://github.com/alskipp/Swift-Diagram-Playgrounds) - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
+* [ReactiveCocoaPlayground](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa.
+* [SwiftReactivePlayground](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift.
+* [Name](https://) - A Swift Playground.
+* [Name](https://) - A Swift Playground.
+ 
 ### UIKit
 *A list of playgrounds that demostrate various aspect of UIKit*
 
@@ -44,15 +56,17 @@ If you see a playground here that does not work anymore with the current release
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
 
-### Learning Swift: Advanced Topics
 
-* [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers.
-* [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - A companion Playground for the article "Swift Functors, Applicatves, and Monads in Pictures".
+### SpriteKit
+*Description*
+
+* [Sprite Kit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
 * [Name](https://) - A Swift Playground.
 * [Name](https://) - A Swift Playground.
-* [Name](https://) - A Swift Playground.
+
 
 ### Other
+*Description*
 
 * [TurtlePlayground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
 * [BradLarson Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
