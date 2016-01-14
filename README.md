@@ -12,8 +12,12 @@ If you see a playground here that does not work anymore with the current release
 - [Apple's Playgrounds](#apple)
 - [Learning Swift](#learning)
 - [Learning Swift: Advanced Topics](#advanced)
+- [Algorithms and Data Structures](#algos)
 - [UIKit](#uikit)
 - [SpriteKit](#sprite)
+- [Music and Souds](#music)
+- [Mathematics](#math)
+- [Playground sets](#sets)
 - [Other](#other)
 
 
