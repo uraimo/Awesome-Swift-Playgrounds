@@ -18,7 +18,7 @@ If you see a playground here that does not work anymore with the current release
 - [UIKit](#uikit)
   - [Animations](#anim)
 - [SpriteKit](#sprite)
-- [Music and Souds](#music)
+- [Audio](#audio)
 - [Mathematics](#math)
 - [Playground sets](#sets)
 - [Other](#other)
@@ -101,7 +101,7 @@ If you see a playground here that does not work anymore with the current release
 * [Sprite Kit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift.
 
-## Music and Sounds
+## Audio
 *Desc*
 
 * [BachPlayground](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
