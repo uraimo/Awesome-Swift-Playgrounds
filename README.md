@@ -34,23 +34,23 @@ If you see a playground here that does not work anymore with the current release
 ## Learning Swift
 *Some interesting playgrounds to learn Swift*
 
-* [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book.
 * [learn-swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book.
-* [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
-* [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
+* [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book.
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
+* [swift-worksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
-* [swift-worksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
+* [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
 * [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
+* [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 
 ## Learning Swift: Advanced Topics
 *Description*
 
 * [A Swift Introduction to Core Data](https://github.com/andyshep/CoreDataPlayground) - Learn Code Data experimenting directly in this playground.
+* [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
 * [TDDSwiftPlayground](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
 * [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
-* [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
 * [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground.
 
 ### Protocol Oriented Programming
@@ -90,9 +90,8 @@ If you see a playground here that does not work anymore with the current release
 ### Animations
 *Desc*
 
-* [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [iOS Animation Samples](https://github.com/JakeLin/iOSAnimationSample) - Experiment with iOS animations.
-* [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - A playground for experimenting with multiple additive animations in Core Animation.
+* [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
 
 ## SpriteKit
@@ -128,3 +127,4 @@ If you see a playground here that does not work anymore with the current release
 
 * [TurtlePlayground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
 * [Swift-Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
+* [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
