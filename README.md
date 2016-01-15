@@ -21,7 +21,7 @@ If you see a playground here that does not work anymore with the current release
 - [Audio](#audio)
 - [Mathematics](#math)
 - [Playground sets](#sets)
-- [Other](#other)
+- [Miscellaneous](#misc)
 
 
 ## Apple's Playgrounds
@@ -116,14 +116,14 @@ If you see a playground here that does not work anymore with the current release
 *Desc*
 
 * [Sketchytech SwiftPlaygrounds](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds.
-* [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds.
+* [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit.
 * [Swift fun playgrounds](https://github.com/madbat/Swift-fun-playgrounds) - A few playgrounds to showcase Swift peculiar features.
 * [Swift Playgrounds](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
 * [Cananito Playgrounds](https://github.com/Cananito/Playgrounds) - Various playgrounds.
 * [Mgrebenets Playgrounds](https://) - Various playgrounds.
 * [BradLarson Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
 
-## Other
+## Miscellaneous
 *Description*
 
 * [TurtlePlayground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
