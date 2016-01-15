@@ -110,6 +110,7 @@ If you see a playground here that does not work anymore with the current release
 
 * [SwiftAccelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
 * [swiftyMathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
+* [Numerical Algorithms using Playgrounds](http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich
 
 ## Playground sets
 *Desc*
