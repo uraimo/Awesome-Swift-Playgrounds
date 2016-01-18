@@ -38,6 +38,7 @@ If you see a playground here that does not work anymore with the current release
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book.
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
 * [swift-worksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
+* [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
 * [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
@@ -84,6 +85,7 @@ If you see a playground here that does not work anymore with the current release
 * [uikit-playground](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views.
 * [WatchKitAssetPlayground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps.
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
+* [Mondrian](https://github.com/timbellay/Mondrian) - Make iOS app mockups in Swift 2.x playgrounds.
 
 ### Animations
 
@@ -124,3 +126,5 @@ If you see a playground here that does not work anymore with the current release
 * [TurtlePlayground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
 * [Swift-Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
+* [S3UploaderPlayground](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
+
