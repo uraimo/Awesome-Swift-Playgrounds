@@ -16,7 +16,7 @@ If you see a playground here that does not work anymore with the current release
   - [Protocol Oriented Programming](#prot)
   - [Functional Reactive Programming](#frp)
 - [Algorithms and Data Structures](#algos)
-- [UIKit](#uikit)
+- [UIKit And Graphics](#uikit)
   - [Animations](#anim)
 - [SpriteKit](#sprite)
 - [Audio](#audio)
@@ -55,6 +55,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground.
 * [Swift Data Tutorial](https://github.com/liuyubobobo/Swift-Date-Tutorial) - Learn everythig about NSDate.
+* [Swift And C](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift.
 
 ### Design Patterns
 
@@ -83,7 +84,7 @@ If you see a playground here that does not work anymore with the current release
 * [Dynamic Programming With Swift](https://github.com/evansjohnson/DynamicProgrammingWithSwift) - A set of three dynamic programming problems implemented in a Swift.
 
  
-## UIKit
+## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
 * [UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.                                                    
@@ -95,6 +96,8 @@ If you see a playground here that does not work anymore with the current release
 * [WatchKitAssetPlayground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps.
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [Mondrian](https://github.com/timbellay/Mondrian) - Make iOS app mockups in Swift 2.x playgrounds.
+* [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
+* [Image Processor](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms.
 
 ### Animations
 
