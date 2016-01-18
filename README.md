@@ -42,6 +42,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
+* [Swift Hack Pack](https://github.com/GuildSA/SwiftHackPack) - Collection of playgrounds that teaches Swift.
 * [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 
@@ -79,6 +80,8 @@ If you see a playground here that does not work anymore with the current release
 * [DataStructuresPlayground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift.
 * [Swiftography](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground.
 * [AlgorithmsPlayground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift.
+* [Dynamic Programming With Swift](https://github.com/evansjohnson/DynamicProgrammingWithSwift) - A set of three dynamic programming problems implemented in a Swift.
+
  
 ## UIKit
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
@@ -124,18 +127,20 @@ If you see a playground here that does not work anymore with the current release
 ## Playground sets
 *Sets of playgrounds about various topics*
 
-* [Sketchytech SwiftPlaygrounds](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds.
+* [Sketchytech's Playgrounds](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds.
 * [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit.
 * [Swift fun playgrounds](https://github.com/madbat/Swift-fun-playgrounds) - A few playgrounds to showcase Swift peculiar features.
-* [Swift Playgrounds](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
-* [Cananito Playgrounds](https://github.com/Cananito/Playgrounds) - Various playgrounds.
-* [Mgrebenets Playgrounds](https://) - Various playgrounds.
-* [BradLarson Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
+* [BradLarson's Playgrounds](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds.
+* [Dmikusa's Playgrounds](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
+* [Cananito's Playgrounds](https://github.com/Cananito/Playgrounds) - Various playgrounds.
+* [Mgrebenets's Playgrounds](https://github.com/mgrebenets/playgrounds) - Various playgrounds.
+* [Uberbruns's Playgrounds](https://github.com/uberbruns/SwiftPlayground) - Various playgrounds.
 
 ## Miscellaneous
 
 * [TurtlePlayground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
 * [Swift-Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
+* [Icon Creator](https://github.com/tnantoka/IconCreator) - Create app icons on Swift playground.
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
 * [S3UploaderPlayground](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
 * [StarWarsSeals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
