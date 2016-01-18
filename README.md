@@ -53,6 +53,7 @@ If you see a playground here that does not work anymore with the current release
 * [TDDSwiftPlayground](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
 * [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground.
+* [Swift Data Tutorial](https://github.com/liuyubobobo/Swift-Date-Tutorial) - Learn everythig about NSDate.
 
 ### Design Patterns
 
@@ -109,11 +110,16 @@ If you see a playground here that does not work anymore with the current release
 * [BachPlayground](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 
 ## Mathematics
-*Livem math with playgrounds*
+*Live math with playgrounds*
 
-* [SwiftAccelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
-* [swiftyMathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
+* [Swift Accelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
+* [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
 * [Numerical Algorithms using Playgrounds](http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich.
+
+## Libraries
+
+* [Argo Playground](https://github.com/renrawnalon/ArgoPlayground) - JSON decoding with Argo.
+* [Parse Playground](https://github.com/ultrasaurus/ParsePlayground) - Experimenting with Parse.com in Swift.
 
 ## Playground sets
 *Sets of playgrounds about various topics*
