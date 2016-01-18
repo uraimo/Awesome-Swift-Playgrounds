@@ -35,10 +35,10 @@ If you see a playground here that does not work anymore with the current release
 ## Learning Swift
 *Some interesting playgrounds to learn Swift*
 
-* [learn-swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book.
+* [Learn Swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book.
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book.
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
-* [swift-worksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
+* [Swift Eorksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
 * [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
@@ -64,13 +64,13 @@ If you see a playground here that does not work anymore with the current release
  
 ### Protocol Oriented Programming
 
-* [Swift-Diagram-Playgrounds](https://github.com/alskipp/Swift-Diagram-Playgrounds) - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
-* [SwiftProtocolExtensions](https://github.com/davidahouse/SwiftProtocolExtensions) - A playground to explore Protocol Extensions.
+* [Swift Diagram Playgrounds](https://github.com/alskipp/Swift-Diagram-Playgrounds) - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
+* [Swift Protocol Extensions](https://github.com/davidahouse/SwiftProtocolExtensions) - A playground to explore Protocol Extensions.
 
 ### Functional Reactive Programming
 
-* [ReactiveCocoaPlayground](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa.
-* [SwiftReactivePlayground](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift.
+* [ReactiveCocoa Playground](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa.
+* [Swift Reactive Playground](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift.
 
 ## Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*
@@ -78,22 +78,22 @@ If you see a playground here that does not work anymore with the current release
 * [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers.
 * [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures.
 * [Functors in Swift](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage.
-* [DataStructuresPlayground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift.
+* [DataStructures Playground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift.
 * [Swiftography](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground.
-* [AlgorithmsPlayground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift.
+* [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift.
 * [Dynamic Programming With Swift](https://github.com/evansjohnson/DynamicProgrammingWithSwift) - A set of three dynamic programming problems implemented in a Swift.
 
  
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
-* [UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.                                                    
+* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.                                                    
 * [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground.
-* [BezierPathPlaygrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
+* [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels.
-* [swiftclock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground.
-* [uikit-playground](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views.
-* [WatchKitAssetPlayground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps.
+* [Swift Clock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground.
+* [UIKit playground](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views.
+* [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps.
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [Mondrian](https://github.com/timbellay/Mondrian) - Make iOS app mockups in Swift 2.x playgrounds.
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
@@ -102,7 +102,7 @@ If you see a playground here that does not work anymore with the current release
 ### Animations
 
 * [iOS Animation Samples](https://github.com/JakeLin/iOSAnimationSample) - Experiment with iOS animations.
-* [Additive-Animations-Playground](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
+* [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
 
 ## SpriteKit
@@ -113,19 +113,20 @@ If you see a playground here that does not work anymore with the current release
 ## Audio
 *Sounds and music*
 
-* [BachPlayground](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
+* [Bach Playground](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 
 ## Mathematics
 *Live math with playgrounds*
 
 * [Swift Accelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
 * [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
-* [Numerical Algorithms using Playgrounds](http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich.
+* [Numerical Algorithms](http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich.
 
 ## Libraries
 
 * [Argo Playground](https://github.com/renrawnalon/ArgoPlayground) - JSON decoding with Argo.
 * [Parse Playground](https://github.com/ultrasaurus/ParsePlayground) - Experimenting with Parse.com in Swift.
+* [S3Uploader](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
 
 ## Playground sets
 *Sets of playgrounds about various topics*
@@ -141,10 +142,9 @@ If you see a playground here that does not work anymore with the current release
 
 ## Miscellaneous
 
-* [TurtlePlayground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
-* [Swift-Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
+* [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
+* [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
 * [Icon Creator](https://github.com/tnantoka/IconCreator) - Create app icons on Swift playground.
+* [StarWars Seals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
-* [S3UploaderPlayground](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
-* [StarWarsSeals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
 
