@@ -114,6 +114,7 @@ If you see a playground here that does not work anymore with the current release
 *Sounds and music*
 
 * [Bach Playground](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
+* [PlayerNode Playground](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file.
 
 ## Mathematics
 *Live math with playgrounds*
