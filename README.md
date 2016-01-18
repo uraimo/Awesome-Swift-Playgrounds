@@ -12,6 +12,7 @@ If you see a playground here that does not work anymore with the current release
 - [Apple's Playgrounds](#apple)
 - [Learning Swift](#learning)
 - [Learning Swift: Advanced Topics](#advanced)
+  - [Design Patterns](#pattern)
   - [Protocol Oriented Programming](#prot)
   - [Functional Reactive Programming](#frp)
 - [Algorithms and Data Structures](#algos)
@@ -41,7 +42,6 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
-* [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
 * [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 
@@ -54,6 +54,11 @@ If you see a playground here that does not work anymore with the current release
 * [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground.
 
+### Design Patterns
+
+* [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
+* [Design Patterns Playground](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 2.
+ 
 ### Protocol Oriented Programming
 
 * [Swift-Diagram-Playgrounds](https://github.com/alskipp/Swift-Diagram-Playgrounds) - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015.
@@ -127,4 +132,5 @@ If you see a playground here that does not work anymore with the current release
 * [Swift-Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
 * [S3UploaderPlayground](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
+* [StarWarsSeals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
 
