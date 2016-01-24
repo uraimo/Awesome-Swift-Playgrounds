@@ -57,6 +57,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Data Tutorial](https://github.com/liuyubobobo/Swift-Date-Tutorial) - Learn everythig about NSDate.
 * [Swift And C](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift.
 * [Swift Memory Management](https://github.com/ndethore/swift-memory-management) - How to avoid retain cycles, from [this post](http://detho.re/2016/01/21/writing-memory-efficient-swift-code/).
+* [XCTest Playground](https://github.com/Liquidsoul/XCTestPlayground) - Better looking tests for playgrounds 
 
 ### Design Patterns
 
