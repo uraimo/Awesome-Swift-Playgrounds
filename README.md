@@ -9,12 +9,13 @@ If you see a playground here that does not work anymore with the current release
 
 ### Contents
 
-- [Apple's Playgrounds](#apple)
 - [Learning Swift](#learning)
 - [Learning Swift: Advanced Topics](#advanced)
   - [Design Patterns](#pattern)
   - [Protocol Oriented Programming](#prot)
   - [Functional Reactive Programming](#frp)
+- [Apple's Playgrounds](#apple)
+- [Playgrounds about Playgrounds](#play)
 - [Algorithms and Data Structures](#algos)
 - [UIKit And Graphics](#uikit)
   - [Animations](#anim)
@@ -24,12 +25,6 @@ If you see a playground here that does not work anymore with the current release
 - [Playground sets](#sets)
 - [Miscellaneous](#misc)
 
-
-## Apple's Playgrounds
-*Playgrounds from Apple, usually presented at some WWDC*
-
-* [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
-* [Apple's Balloons Playground](https://developer.apple.com/swift/blog/downloads/Balloons.zip) - The balloons playground showed at WWDC14.
 
 
 ## Learning Swift
@@ -57,7 +52,6 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Data Tutorial](https://github.com/liuyubobobo/Swift-Date-Tutorial) - Learn everythig about NSDate.
 * [Swift And C](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift.
 * [Swift Memory Management](https://github.com/ndethore/swift-memory-management) - How to avoid retain cycles, from [this post](http://detho.re/2016/01/21/writing-memory-efficient-swift-code/).
-* [XCTest Playground](https://github.com/Liquidsoul/XCTestPlayground) - Better looking tests for playgrounds 
 
 ### Design Patterns
 
@@ -73,6 +67,22 @@ If you see a playground here that does not work anymore with the current release
 
 * [ReactiveCocoa Playground](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa.
 * [Swift Reactive Playground](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift.
+
+
+## Apple's Playgrounds
+*Playgrounds from Apple, usually presented at some WWDC*
+
+* [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
+* [Apple's Balloons Playground](https://developer.apple.com/swift/blog/downloads/Balloons.zip) - The balloons playground showed at WWDC14.
+
+                                                                                                         o
+## Playgrounds about Playgrounds
+*Playgrounds that describe what you can do with playgrounds*
+
+* [Interactive Playground](https://github.com/dasdom/InteractivePlayground) - Exploring interactivity in Playgrounds in Xcode 7.3.
+* [XCTest Playground](https://github.com/Liquidsoul/XCTestPlayground) - Better looking tests for playgrounds 
+* [Mondrian](https://github.com/timbellay/Mondrian) - Make iOS app mockups in Swift 2.x playgrounds.
+
 
 ## Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*
@@ -94,10 +104,10 @@ If you see a playground here that does not work anymore with the current release
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels.
 * [Swift Clock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground.
+* [Checkmark Button](https://github.com/BilalReffas/CheckmarkButton) - Animated check mark button. 
 * [UIKit playground](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views.
 * [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps.
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
-* [Mondrian](https://github.com/timbellay/Mondrian) - Make iOS app mockups in Swift 2.x playgrounds.
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
 * [Image Processor](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms.
 
@@ -107,10 +117,12 @@ If you see a playground here that does not work anymore with the current release
 * [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
 
+
 ## SpriteKit
 
 * [Sprite Kit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift.
+
 
 ## Audio
 *Sounds and music*
@@ -118,18 +130,22 @@ If you see a playground here that does not work anymore with the current release
 * [Bach Playground](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 * [PlayerNode Playground](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file.
 
+
 ## Mathematics
 *Live math with playgrounds*
 
+* [Lindenmayer Systems](https://github.com/henrinormak/lindenmayer) - A Swift playground exploring Lindemayer systems.
 * [Swift Accelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
 * [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
 * [Numerical Algorithms](http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich.
+
 
 ## Libraries
 
 * [Argo Playground](https://github.com/renrawnalon/ArgoPlayground) - JSON decoding with Argo.
 * [Parse Playground](https://github.com/ultrasaurus/ParsePlayground) - Experimenting with Parse.com in Swift.
 * [S3Uploader](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
+
 
 ## Playground sets
 *Sets of playgrounds about various topics*
@@ -142,6 +158,7 @@ If you see a playground here that does not work anymore with the current release
 * [Cananito's Playgrounds](https://github.com/Cananito/Playgrounds) - Various playgrounds.
 * [Mgrebenets's Playgrounds](https://github.com/mgrebenets/playgrounds) - Various playgrounds.
 * [Uberbruns's Playgrounds](https://github.com/uberbruns/SwiftPlayground) - Various playgrounds.
+
 
 ## Miscellaneous
 
