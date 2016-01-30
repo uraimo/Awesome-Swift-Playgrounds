@@ -50,7 +50,7 @@ If you see a playground here that does not work anymore with the current release
 * [TDDSwiftPlayground](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
 * [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground.
-* [Swift Data Tutorial](https://github.com/liuyubobobo/Swift-Date-Tutorial) - Learn everythig about NSDate.
+* [Swift Data Tutorial](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) - Learn everythig about NSDate.
 * [Swift And C](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift.
 * [Swift Memory Management](https://github.com/ndethore/swift-memory-management) - How to avoid retain cycles, from [this post](http://detho.re/2016/01/21/writing-memory-efficient-swift-code/).
 
@@ -159,7 +159,7 @@ If you see a playground here that does not work anymore with the current release
 * [Dmikusa's Playgrounds](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO.
 * [Cananito's Playgrounds](https://github.com/Cananito/Playgrounds) - Various playgrounds.
 * [Mgrebenets's Playgrounds](https://github.com/mgrebenets/playgrounds) - Various playgrounds.
-* [Uberbruns's Playgrounds](https://github.com/uberbruns/SwiftPlayground) - Various playgrounds.
+* [Uberbruns's Playgrounds](https://github.com/uberbruns/SwiftPlaygrounds) - Various playgrounds.
 
 
 ## Miscellaneous
