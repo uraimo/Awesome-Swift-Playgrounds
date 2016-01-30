@@ -9,21 +9,22 @@ If you see a playground here that does not work anymore with the current release
 
 ### Contents
 
-- [Learning Swift](#learning)
-- [Learning Swift: Advanced Topics](#advanced)
-  - [Design Patterns](#pattern)
-  - [Protocol Oriented Programming](#prot)
-  - [Functional Reactive Programming](#frp)
-- [Apple's Playgrounds](#apple)
-- [Playgrounds about Playgrounds](#play)
-- [Algorithms and Data Structures](#algos)
-- [UIKit And Graphics](#uikit)
-  - [Animations](#anim)
-- [SpriteKit](#sprite)
+- [Learning Swift](#learning-swift)
+- [Learning Swift: Advanced Topics](#learning-swift-advanced-topics)
+  - [Design Patterns](#design-patterns)
+  - [Protocol Oriented Programming](#protocol-oriented-programming)
+  - [Functional Reactive Programming](#functional-reactive-programming)
+- [Apple's Playgrounds](#apples-playgrounds)
+- [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [UIKit And Graphics](#uikit-and-graphics)
+  - [Animations](#animations)
+- [SpriteKit](#spritekit)
 - [Audio](#audio)
-- [Mathematics](#math)
-- [Playground sets](#sets)
-- [Miscellaneous](#misc)
+- [Mathematics](#mathematics)
+- [Libraries](#libraries)
+- [Playground sets](#playground-sets)
+- [Miscellaneous](#miscellaneous)
 
 
 
