@@ -5,7 +5,7 @@
 
 Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors); you rock!
 
-If you see a playground here that does not work anymore with the current release of XCode or is not a good fit, please submit a pull request to improve this file. Thank you!
+If you see a playground here that does not work anymore with the current release of XCode or is not a good fit, please submit a pull request to improve this file or consider updating it. Thank you!
 
 ### Contents
 
@@ -19,7 +19,7 @@ If you see a playground here that does not work anymore with the current release
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [UIKit And Graphics](#uikit-and-graphics)
   - [Animations](#animations)
-- [SpriteKit](#spritekit)
+  - [SpriteKit](#spritekit)
 - [Audio](#audio)
 - [Mathematics](#mathematics)
 - [Libraries](#libraries)
@@ -76,7 +76,7 @@ If you see a playground here that does not work anymore with the current release
 * [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
 * [Apple's Balloons Playground](https://developer.apple.com/swift/blog/downloads/Balloons.zip) - The balloons playground showed at WWDC14.
 
-                                                                                                         o
+
 ## Playgrounds about Playgrounds
 *Playgrounds that describe what you can do with playgrounds*
 
@@ -119,7 +119,7 @@ If you see a playground here that does not work anymore with the current release
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
 
 
-## SpriteKit
+### SpriteKit
 
 * [Sprite Kit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift.
@@ -142,6 +142,7 @@ If you see a playground here that does not work anymore with the current release
 
 
 ## Libraries
+*Library tutorials, in a playground*
 
 * [Argo Playground](https://github.com/renrawnalon/ArgoPlayground) - JSON decoding with Argo.
 * [Parse Playground](https://github.com/ultrasaurus/ParsePlayground) - Experimenting with Parse.com in Swift.
@@ -162,6 +163,7 @@ If you see a playground here that does not work anymore with the current release
 
 
 ## Miscellaneous
+*What doesn't fit anywhere else, but still awesome*
 
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
