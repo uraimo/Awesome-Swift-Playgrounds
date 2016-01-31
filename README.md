@@ -166,6 +166,7 @@ If you see a playground here that does not work anymore with the current release
 *What doesn't fit anywhere else, but still awesome*
 
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands.
+* [Chess and Checkers Game Board](https://github.com/joalbright/Gameboard) - Play Chess or checkers in playgrounds.
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
 * [Icon Creator](https://github.com/tnantoka/IconCreator) - Create app icons on Swift playground.
 * [StarWars Seals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
