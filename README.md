@@ -95,6 +95,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swiftography](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground.
 * [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift.
 * [Dynamic Programming With Swift](https://github.com/evansjohnson/DynamicProgrammingWithSwift) - A set of three dynamic programming problems implemented in a Swift.
+* [Swift Algorithm Club](https://github.com/hollance/swift-algorithm-club) - Algorithms and data structures in Swift with explanations.
 
  
 ## UIKit And Graphics
