@@ -174,4 +174,5 @@ If you see a playground here that does not work anymore with the current release
 * [Icon Creator](https://github.com/tnantoka/IconCreator) - Create app icons on Swift playground.
 * [StarWars Seals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
+* [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground.
 
