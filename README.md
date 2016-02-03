@@ -5,7 +5,7 @@
 
 Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors); you rock!
 
-If you see a playground here that does not work anymore with the current release of XCode or is not a good fit, please submit a pull request to improve this file or consider updating it. Thank you!
+If you see a playground here that does not work anymore with the current release of Xcode or is not a good fit, please submit a pull request to improve this file or consider updating it. Thank you!
 
 ### Contents
 
