@@ -117,7 +117,7 @@ If you see a playground here that does not work anymore with the current release
 ###Core Image
 
 * [Interpolation Playground](https://github.com/FlexMonkey/Interpolation-Playground-) - Playground demonstrating lerp, smooth step, Catcall-Rom and others!
-* [CoreImage for Swift Playgrounds]https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift".
+* [CoreImage for Swift Playgrounds](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift".
 * [Image Processor](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms.
 
 
