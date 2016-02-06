@@ -18,6 +18,7 @@ If you see a playground here that does not work anymore with the current release
 - [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [UIKit And Graphics](#uikit-and-graphics)
+  - [Core Image](#core-image)
   - [Animations](#animations)
   - [SpriteKit](#spritekit)
 - [Audio](#audio)
@@ -102,7 +103,7 @@ If you see a playground here that does not work anymore with the current release
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
-* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.                                                    
+* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.
 * [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground.
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels.
@@ -112,8 +113,13 @@ If you see a playground here that does not work anymore with the current release
 * [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps.
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
-* [Image Processor](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms.
+
+###Core Image
+
 * [Interpolation Playground](https://github.com/FlexMonkey/Interpolation-Playground-) - Playground demonstrating lerp, smooth step, Catcall-Rom and others!
+* [CoreImage for Swift Playgrounds]https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift".
+* [Image Processor](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms.
+
 
 ### Animations
 
