@@ -99,7 +99,7 @@ If you see a playground here that does not work anymore with the current release
 * [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift.
 * [Dynamic Programming With Swift](https://github.com/evansjohnson/DynamicProgrammingWithSwift) - A set of three dynamic programming problems implemented in a Swift.
 * [Swift Algorithm Club](https://github.com/hollance/swift-algorithm-club) - Algorithms and data structures in Swift with explanations.
-
+* [Sorting Experiments](https://github.com/adrfer/Sort) - Alluring experiments with sorting algorithms in Swift, sort of.
  
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
