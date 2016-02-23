@@ -19,6 +19,7 @@ If you see a playground here that does not work anymore with the current release
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [UIKit And Graphics](#uikit-and-graphics)
   - [Core Image](#core-image)
+  - [Metal](#metal)
   - [Animations](#animations)
   - [SpriteKit](#spritekit)
 - [Audio](#audio)
@@ -105,7 +106,6 @@ If you see a playground here that does not work anymore with the current release
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
 * [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.
-* [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground.
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels.
 * [Swift Clock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground.
@@ -121,13 +121,16 @@ If you see a playground here that does not work anymore with the current release
 * [CoreImage for Swift Playgrounds](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift".
 * [Image Processor](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms.
 
+###Metal
+
+* [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground.
+* [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 
 
 ### Animations
 
 * [iOS Animation Samples](https://github.com/JakeLin/iOSAnimationSample) - Experiment with iOS animations.
 * [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
-
 
 ### SpriteKit
 
