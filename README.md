@@ -78,7 +78,7 @@ If you see a playground here that does not work anymore with the current release
 
 * [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
 * [Apple's Balloons Playground](https://developer.apple.com/swift/blog/downloads/Balloons.zip) - The balloons playground showed at WWDC14.
-* [Interactive Playgrounds](https://developer.apple.com/swift/blog/?id=35) - Playground that presents the interactive playgrounds feature with a UIKit dynamics Newton's cradle
+* [Interactive Playgrounds](https://developer.apple.com/swift/blog/?id=35) - Playground that presents the interactive playgrounds feature with a UIKit dynamics Newton's cradle.
 
 
 ## Playgrounds about Playgrounds
@@ -116,6 +116,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.
+* [Ray tracing Playground](https://github.com/Swiftor/Raytracing) - A playground and a series of articles on ray tracing.
 
 ###Core Image
 
