@@ -167,7 +167,7 @@ If you see a playground here that does not work anymore with the current release
 * [S3Uploader](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
 * [100 AudioKit Playgrounds](http://audiokit.io/playgrounds/iOS/) - Audio synthesis and processing with AudioKit.
 
-## Playground sets
+## Playground Sets
 *Sets of playgrounds about various topics*
 
 * [Public Extensions](https://github.com/Jasdev/Public-Extension) - A set of useful extensions from [@PublicExtension](https://twitter.com/publicextension).
@@ -179,6 +179,7 @@ If you see a playground here that does not work anymore with the current release
 * [Cananito's Playgrounds](https://github.com/Cananito/Playgrounds) - Various playgrounds.
 * [Mgrebenets's Playgrounds](https://github.com/mgrebenets/playgrounds) - Various playgrounds.
 * [Uberbruns's Playgrounds](https://github.com/uberbruns/SwiftPlaygrounds) - Various playgrounds.
+* [URaimo's Playgrounds](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics.
 
 
 ## Miscellaneous
