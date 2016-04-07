@@ -117,7 +117,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.
-* [Ray tracing Playground](https://github.com/Swiftor/Raytracing) - A playground and a series of articles on ray tracing.
+* [Ray tracing Playground](https://github.com/Swiftor/Raytracing) - A playground and a series of articles on ray tracing, see also part [2](https://github.com/Swiftor/Raytracing2), [3](https://github.com/Swiftor/Raytracing3)
 
 ###Core Image
 
