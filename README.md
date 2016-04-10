@@ -170,7 +170,7 @@ If you see a playground here that does not work anymore with the current release
 * [Argo Playground](https://github.com/renrawnalon/ArgoPlayground) - JSON decoding with Argo.
 * [Parse Playground](https://github.com/ultrasaurus/ParsePlayground) - Experimenting with Parse.com in Swift.
 * [S3Uploader](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
-* [100 AudioKit Playgrounds](http://audiokit.io/playgrounds/iOS/) - Audio synthesis and processing with AudioKit.
+* [100 AudioKit Playgrounds](http://audiokit.io/playgrounds/) - Audio synthesis and processing with AudioKit.
 
 ## Playground Sets
 *Sets of playgrounds about various topics*
