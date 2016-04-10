@@ -111,7 +111,7 @@ If you see a playground here that does not work anymore with the current release
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
-* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.
+* [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.🌟
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels.
 * [Swift Clock](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground.
@@ -121,7 +121,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.
-* [Ray tracing Playground](https://github.com/Swiftor/Raytracing) - A playground and a series of articles on ray tracing, see also part [2](https://github.com/Swiftor/Raytracing2), [3](https://github.com/Swiftor/Raytracing3)
+* [Ray tracing Playground](https://github.com/Swiftor/Raytracing) - A playground and a series of articles on ray tracing, see also part [2](https://github.com/Swiftor/Raytracing2), [3](https://github.com/Swiftor/Raytracing3), [4](https://github.com/Swiftor/Raytracing4) 🌟
 
 ###Core Image
 
