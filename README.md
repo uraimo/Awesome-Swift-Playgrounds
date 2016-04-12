@@ -37,16 +37,17 @@ If you see a playground here that does not work anymore with the current release
 ## Learning Swift
 *Some interesting playgrounds to learn Swift*
 
-* [Learn Swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book.
-* [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book.
+* [Learn Swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book. 🌟
+* [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
 * [Swift Eorksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
-* [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic
+* [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
 * [Swift Hack Pack](https://github.com/GuildSA/SwiftHackPack) - Collection of playgrounds that teaches Swift.
 * [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
+* [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
 
 ## Learning Swift: Advanced Topics
 *Advanced topics, useful once you have mastered the basics of the language*
