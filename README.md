@@ -81,7 +81,7 @@ If you see a playground here that does not work anymore with the current release
 ## Apple's Playgrounds
 *Playgrounds from Apple, usually presented at some WWDC*
 
-* [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
+* [Apple's Mandelbrot Playground](https://github.com/palmerc/Mandelbrot-Swift-Playground) - A playground with the mandelbrot fractal (updated to Swift2 by @palmerc).
 * [Apple's Balloons Playground](https://developer.apple.com/swift/blog/downloads/Balloons.zip) - The balloons playground showed at WWDC14.
 * [Interactive Playgrounds](https://developer.apple.com/swift/blog/?id=35) - Playground that presents the interactive playgrounds feature with a UIKit dynamics Newton's cradle. 🌟
 
