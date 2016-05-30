@@ -60,6 +60,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Data Tutorial](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) - Learn everythig about NSDate.
 * [Swift And C](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift.
 * [Swift Memory Management](https://github.com/ndethore/swift-memory-management) - How to avoid retain cycles, from [this post](http://detho.re/2016/01/21/writing-memory-efficient-swift-code/).
+* [Concurrency on iOS](https://github.com/sammyd/iOSConcurrency) - Concurrency and Parallelism in iOS
 
 ### Design Patterns
 
@@ -173,6 +174,7 @@ If you see a playground here that does not work anymore with the current release
 * [S3Uploader](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
 * [100 AudioKit Playgrounds](http://audiokit.io/playgrounds/) - Audio synthesis and processing with AudioKit.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
+* [Realm Swift Playground](https://github.com/willowtreeapps/RealmSwiftPlayground) - A playground that demos the basic features of Realm in swift.
 
 ## Playground Sets
 *Sets of playgrounds about various topics*
