@@ -172,6 +172,7 @@ If you see a playground here that does not work anymore with the current release
 * [Parse Playground](https://github.com/ultrasaurus/ParsePlayground) - Experimenting with Parse.com in Swift.
 * [S3Uploader](https://github.com/djromero/S3UploaderPlayground) - A playground to upload images to AWS S3.
 * [100 AudioKit Playgrounds](http://audiokit.io/playgrounds/) - Audio synthesis and processing with AudioKit.
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
 
 ## Playground Sets
 *Sets of playgrounds about various topics*
