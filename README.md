@@ -40,7 +40,7 @@ If you see a playground here that does not work anymore with the current release
 * [Learn Swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book. 🌟
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
 * [Swift Reference Playground](https://github.com/sivragav/swift-reference-pg) - Reference playground with basic language syntax and examples.
-* [Swift Eorksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
+* [Swift Worksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
 * [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
@@ -48,6 +48,7 @@ If you see a playground here that does not work anymore with the current release
 * [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
+* [Swifter Tips](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language.
 
 ## Learning Swift: Advanced Topics
 *Advanced topics, useful once you have mastered the basics of the language*
@@ -123,7 +124,9 @@ If you see a playground here that does not work anymore with the current release
 * [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes.
 * [Tinting](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit.
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.
-* [Ray tracing Playground](https://github.com/Swiftor/Raytracing) - A playground and a series of articles on ray tracing, see also part [2](https://github.com/Swiftor/Raytracing2), [3](https://github.com/Swiftor/Raytracing3), [4](https://github.com/Swiftor/Raytracing4) 🌟
+* [Ray tracing Playground](https://github.com/Swiftor/Raytracing) - A playground and a series of articles on ray tracing, see also part [2](https://github.com/Swiftor/Raytracing2), [3](https://github.com/Swiftor/Raytracing3), [4](https://github.com/Swiftor/Raytracing4), [5](https://github.com/Swiftor/Raytracing5) 🌟
+* [WWDC16 Logo Playground](https://github.com/krutarth/WWDC16Logo) - Drawing the WWDC16 logo in a playground.
+* [WWDC16 Typography](https://github.com/tototti/wwdc16_typography_playground) 🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.
 
 ###Core Image
 
