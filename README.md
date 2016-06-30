@@ -44,7 +44,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Crash Course](https://github.com/kefbytes/Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
 * [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
-* [Swift Hack Pack](https://github.com/GuildSA/SwiftHackPack) - Collection of playgrounds that teaches Swift.
+* [Swift Hack Pack](https://github.com/GuildSA/swift-hack-pack) - Collection of playgrounds that teaches Swift.
 * [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
