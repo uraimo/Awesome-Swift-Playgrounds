@@ -207,11 +207,11 @@ If you see a playground here that does not work anymore with the current release
 * [Game Boards](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
 * [Icon Creator](https://github.com/tnantoka/IconCreator) - Create app icons on Swift playground.
-* [StarWars Seals](https://github.com/jconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
+* [StarWars Seals](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
 * [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟
 * [Earth photos](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟
 * [2048 Playground](https://github.com/robin/2048_Playground) - The 2048 game implemented with a playground.
 * [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.📱
-* [SwiftShell](https://github.com/JustinJiaDev/SwiftShell) - Bash shell in a playgound.
+* [SwiftShell](https://github.com/JustinJiaDev/SwiftShell) - Bash shell in a playground.
 
