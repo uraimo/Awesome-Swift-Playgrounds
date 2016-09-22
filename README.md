@@ -10,6 +10,7 @@ If you see a playground here that does not work anymore with the current release
 ### Tags
 
 🌟 = My personal favorites
+📱 = iOS Playground
 
 ### Contents
 
@@ -111,6 +112,7 @@ If you see a playground here that does not work anymore with the current release
 * [Sorting Experiments](https://github.com/adrfer/Sort) - Alluring experiments with sorting algorithms in Swift, sort of.
 * [The Jelly Bean Problem](https://github.com/kyleweiner/Jelly-Bean-Problem) - The Jelly Bean problem from Wait But Why.
 * [Euclidean Strings](https://github.com/modulusMathews/ReEuclid) - A playground leveraging ReSwift to generate Euclidean Strings.
+* [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
  
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
@@ -146,6 +148,7 @@ If you see a playground here that does not work anymore with the current release
 * [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
 * [Duet-Inspired Trail Effect](https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground) - How to get a Duet style trailing effect in SpriteKit.
+* [Core Animation Swift Playgrounds](https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds) - A set of interesting Core Animation playgounds
 
 ### SpriteKit
 
@@ -170,7 +173,7 @@ If you see a playground here that does not work anymore with the current release
 * [Swift Natural Numbers](https://github.com/jakebromberg/Swift-Natural-Numbers) - A playground for implementing the natural numbers and more concepts in number theory.
 
 
-## Libraries
+## Libraries and APIs
 *Library tutorials, in a playground*
 
 * [Argo Playground](https://github.com/renrawnalon/ArgoPlayground) - JSON decoding with Argo.
@@ -179,6 +182,7 @@ If you see a playground here that does not work anymore with the current release
 * [100 AudioKit Playgrounds](http://audiokit.io/playgrounds/) - Audio synthesis and processing with AudioKit.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
 * [Realm Swift Playground](https://github.com/willowtreeapps/RealmSwiftPlayground) - A playground that demos the basic features of Realm in swift.
+* [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) - Get started with the Microsoft Cognitive Services APIs.
 
 ## Playground Sets
 *Sets of playgrounds about various topics*
@@ -208,4 +212,6 @@ If you see a playground here that does not work anymore with the current release
 * [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟
 * [Earth photos](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟
 * [2048 Playground](https://github.com/robin/2048_Playground) - The 2048 game implemented with a playground.
- 
+* [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.📱
+* [SwiftShell](https://github.com/JustinJiaDev/SwiftShell) - Bash shell in a playgound.
+
