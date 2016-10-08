@@ -1,4 +1,5 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://travis-ci.org/uraimo/Awesome-Swift-Playgrounds"><img src="https://api.travis-ci.org/uraimo/Awesome-Swift-Playgrounds.svg" alt="Travis CI"></a>
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 > A curated list of awesome Swift playgrounds.
     
 ### Contributing
