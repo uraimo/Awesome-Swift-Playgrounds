@@ -13,6 +13,7 @@ If you see a playground here that does not work anymore with the current release
 🌟 = My personal favorites
 
 📱 = iOS Playground
+☘️ = Swift 3
 
 ☘ = Swift 3+ Playground
 
@@ -156,8 +157,9 @@ If you see a playground here that does not work anymore with the current release
 
 ### SpriteKit
 
-* [Sprite Kit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
+* [SpriteKit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and SpriteKit.
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift.
+* [SpriteKit Swift 3](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exploring Sprite Kit. ☘️
 
 
 ## Audio
