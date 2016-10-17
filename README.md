@@ -12,6 +12,7 @@ If you see a playground here that does not work anymore with the current release
 
 🌟 = My personal favorites
 📱 = iOS Playground
+☘️ = Swift 3
 
 ### Contents
 
@@ -157,7 +158,7 @@ If you see a playground here that does not work anymore with the current release
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift.
 
 ####updated to Swift 3
-* [Sprite Kit Swift 3](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exsploring Sprite Kit 
+* [Sprite Kit Swift 3](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exsploring Sprite Kit ☘️
 
 
 ## Audio
