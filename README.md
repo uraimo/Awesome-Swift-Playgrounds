@@ -156,6 +156,9 @@ If you see a playground here that does not work anymore with the current release
 * [Sprite Kit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and Sprite Kit.
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift.
 
+####updated to Swift 3
+* [Sprite Kit Swift 3](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exsploring Sprite Kit 
+
 
 ## Audio
 *Sounds and music*
