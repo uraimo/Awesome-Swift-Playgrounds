@@ -54,6 +54,7 @@ If you see a playground here that does not work anymore with the current release
 * [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51032-2015-Spring-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟 ☘️
 * [Swifter Tips](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language.
+* [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language. ☘️
 
 ## Learning Swift: Advanced Topics
 *Advanced topics, useful once you have mastered the basics of the language*
