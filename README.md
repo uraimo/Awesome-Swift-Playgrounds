@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/Playgrounds:-118-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![](https://img.shields.io/badge/Playgrounds:-119-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
     
@@ -119,6 +119,7 @@ If you see a playground here that does not work anymore with the current release
 * [The Jelly Bean Problem](https://github.com/kyleweiner/Jelly-Bean-Problem) - The Jelly Bean problem from Wait But Why.
 * [Euclidean Strings](https://github.com/modulusMathews/ReEuclid) - A playground leveraging ReSwift to generate Euclidean Strings.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟 ☘️
+* [Logician](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟 ☘️
 
 ### Languages
 *Programming language interpreters implemented in Swift*
