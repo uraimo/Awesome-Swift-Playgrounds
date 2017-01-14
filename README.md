@@ -200,6 +200,7 @@ If you see a playground here that does not work anymore with the current release
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code. ☘️
 * [Realm Swift Playground](https://github.com/willowtreeapps/RealmSwiftPlayground) - A playground that demos the basic features of Realm in swift.
 * [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) - Get started with the Microsoft Cognitive Services APIs. ☘️
+* [AssetManager](https://github.com/aidv/AssetManager) - An easier way of handling assets and extracting specific data from an asset. ☘️
 
 ## Playground Sets
 *Sets of playgrounds about various topics*
