@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![](https://img.shields.io/badge/Playgrounds:-120-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![](https://img.shields.io/badge/Playgrounds:-121-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
     
@@ -104,12 +104,15 @@ If you see a playground here that does not work anymore with the current release
 
 ## Theoretical Computer Science
 
-### Algorithms and Data Structures
-*Algorithms and data structures implemented in Swift*
-
 * [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers.
 * [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures.
 * [Functors in Swift](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage.
+* [Logician](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟 ☘️
+* [Function Composition in Swift](https://github.com/ijoshsmith/function-composition-in-swift) - Exploration of function composition in Swift. 🌟 ☘️
+
+### Algorithms and Data Structures
+*Algorithms and data structures implemented in Swift*
+
 * [DataStructures Playground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift.
 * [Swiftography](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground.
 * [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift.
@@ -119,7 +122,6 @@ If you see a playground here that does not work anymore with the current release
 * [The Jelly Bean Problem](https://github.com/kyleweiner/Jelly-Bean-Problem) - The Jelly Bean problem from Wait But Why.
 * [Euclidean Strings](https://github.com/modulusMathews/ReEuclid) - A playground leveraging ReSwift to generate Euclidean Strings.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟 ☘️
-* [Logician](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟 ☘️
 
 ### Languages
 *Programming language interpreters implemented in Swift*
