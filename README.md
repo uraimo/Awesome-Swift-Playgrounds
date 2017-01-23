@@ -25,7 +25,9 @@ If you see a playground here that does not work anymore with the current release
   - [Functional Reactive Programming](#functional-reactive-programming)
 - [Apple's Playgrounds](#apples-playgrounds)
 - [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Theoretical Computer Science](#theoretical-computer-science)
+    - [Algorithms and Data Structures](#algorithms-and-data-structures)
+    - [Languages](#languages)
 - [UIKit And Graphics](#uikit-and-graphics)
   - [Core Image](#core-image)
   - [Metal](#metal)
@@ -33,7 +35,7 @@ If you see a playground here that does not work anymore with the current release
   - [SpriteKit](#spritekit)
 - [Audio](#audio)
 - [Mathematics](#mathematics)
-- [Libraries](#libraries)
+- [Libraries and APIs](#libraries-and-apis)
 - [Playground sets](#playground-sets)
 - [Miscellaneous](#miscellaneous)
 
@@ -149,13 +151,13 @@ If you see a playground here that does not work anymore with the current release
 * [Window Manager Playground](https://github.com/steventroughtonsmith/windowmanager-playgroundbook) - Playground for an experimental window manager. 📱☘️
 * [UIDynamic Playground](https://github.com/andresbrun/UIDynamicsPlayground) - Multiple Playgrounds using almost every behaviour of UIDynamic. ☘️
 
-###Core Image
+### Core Image
 
 * [Interpolation Playground](https://github.com/FlexMonkey/Interpolation-Playground-) - Playground demonstrating lerp, smooth step, Catcall-Rom and others!
 * [CoreImage for Swift Playgrounds](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟
 * [Image Processor](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms.
 
-###Metal
+### Metal
 
 * [METAL Playground](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground. 🌟
 * [Metalbrot](https://github.com/jtbandes/Metalbrot.playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟 ☘️
