@@ -20,20 +20,20 @@ If you see a playground here that does not work anymore with the current release
 
 - [Learning Swift](#learning-swift)
 - [Learning Swift: Advanced Topics](#learning-swift-advanced-topics)
-- [Design Patterns](#design-patterns)
-- [Protocol Oriented Programming](#protocol-oriented-programming)
-- [Functional Reactive Programming](#functional-reactive-programming)
+  - [Design Patterns](#design-patterns)
+  - [Protocol Oriented Programming](#protocol-oriented-programming)
+  - [Functional Reactive Programming](#functional-reactive-programming)
 - [Apple's Playgrounds](#apples-playgrounds)
 - [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
 - [Playgrounds from Playgroundbooks](#playgrounds-from-playgroundbooks)
 - [Theoretical Computer Science](#theoretical-computer-science)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
-- [Languages](#languages)
+    - [Algorithms and Data Structures](#algorithms-and-data-structures)
+    - [Languages](#languages)
 - [UIKit And Graphics](#uikit-and-graphics)
-- [Core Image](#core-image)
-- [Metal](#metal)
-- [Animations](#animations)
-- [SpriteKit](#spritekit)
+  - [Core Image](#core-image)
+  - [Metal](#metal)
+  - [Animations](#animations)
+  - [SpriteKit](#spritekit)
 - [Audio](#audio)
 - [Mathematics](#mathematics)
 - [Libraries and APIs](#libraries-and-apis)
@@ -109,7 +109,6 @@ If you see a playground here that does not work anymore with the current release
 *Playgrounds derived from iPad Swift Playgroundbooks*
 
 * [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) - No need of an iPad to open Playgroundbook.☘️
-
 
 ## Theoretical Computer Science
 
