@@ -1,7 +1,7 @@
 # Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![](https://img.shields.io/badge/Playgrounds:-120-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
-    
+
 ### Contributing
 
 Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors); you rock!
@@ -25,6 +25,7 @@ If you see a playground here that does not work anymore with the current release
   - [Functional Reactive Programming](#functional-reactive-programming)
 - [Apple's Playgrounds](#apples-playgrounds)
 - [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
+- [Playgrounds from Playgroundbooks](#playgrounds-from-playgroundbooks)
 - [Theoretical Computer Science](#theoretical-computer-science)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Languages](#languages)
@@ -75,7 +76,7 @@ If you see a playground here that does not work anymore with the current release
 
 * [Design Patterns Playground](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 3. ☘️
 * [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
- 
+
 ### Protocol Oriented Programming
 
 * [Swift Diagram Playgrounds](https://github.com/alskipp/Swift-Diagram-Playgrounds) - Adaptation of the Protocol-Oriented Programming in Swift talk from WWDC 2015. ☘️
@@ -104,6 +105,11 @@ If you see a playground here that does not work anymore with the current release
 * [Interactive Playground](https://github.com/dasdom/InteractivePlayground) - Exploring interactivity in Playgrounds. ☘️
 * [Mondrian](https://github.com/timbellay/Mondrian) - Make iOS app mockups in Swift 2.x playgrounds.
 
+## Playgrounds from Playgroundbooks
+*Playgrounds derived from iPad Swift Playgroundbooks*
+
+* [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) - No need of an iPad to open Playgroundbook.☘️
+
 ## Theoretical Computer Science
 
 * [Logician](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟 ☘️
@@ -131,7 +137,7 @@ If you see a playground here that does not work anymore with the current release
 * [Write your own language: Mu](https://github.com/marciok/Mu) - A playground explaining how to create a tiny programming language named Mu. 🌟 ☘️
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
- 
+
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
