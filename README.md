@@ -10,7 +10,9 @@ If you see a playground here that does not work anymore with the current release
 
 ### Downloading all the playgrounds
 
-All the playgrounds are available as submodules in the `playgrounds/` directory, to download them all in one go, just clone this repository with `git clone --recursive https://github.com/uraimo/Awesome-Swift-Playgrounds.git` or execute `git submodule update --init` after you have cloned the repository the usual way. Apple's playground distributed as zip archives have to be downloaded manually.
+All the playgrounds are available as submodules in the `playgrounds/` directory, to download them all in one go, just clone this repository with `git clone --recursive https://github.com/uraimo/Awesome-Swift-Playgrounds.git` or execute `git submodule update --init` after you have cloned the repository the usual way. 
+
+Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Tags
 
