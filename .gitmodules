@@ -340,3 +340,12 @@
 [submodule "playgrounds/jtbandes/DSCOVR.playground"]
 	path = playgrounds/jtbandes/DSCOVR.playground
 	url = https://github.com/jtbandes/DSCOVR.playground
+[submodule "playgrounds/mathewsanders/Scrubber"]
+	path = playgrounds/mathewsanders/Scrubber
+	url = https://github.com/mathewsanders/Scrubber
+[submodule "playgrounds/neilsardesai/WWDC-Crowd-Simulator-2017"]
+	path = playgrounds/neilsardesai/WWDC-Crowd-Simulator-2017
+	url = https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017.git
+[submodule "playgrounds/NSExceptional/ASM-Swift"]
+	path = playgrounds/NSExceptional/ASM-Swift
+	url = https://github.com/NSExceptional/ASM-Swift.git
