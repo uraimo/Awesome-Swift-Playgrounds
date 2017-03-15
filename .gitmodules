@@ -1,0 +1,342 @@
+[submodule "playgrounds/danielpi/Swift-Playgrounds"]
+	path = playgrounds/danielpi/Swift-Playgrounds
+	url = https://github.com/danielpi/Swift-Playgrounds
+[submodule "playgrounds/GuildSA/swift-hack-pack"]
+	path = playgrounds/GuildSA/swift-hack-pack
+	url = https://github.com/GuildSA/swift-hack-pack
+[submodule "playgrounds/jakarmy/swift-summary"]
+	path = playgrounds/jakarmy/swift-summary
+	url = https://github.com/jakarmy/swift-summary
+[submodule "playgrounds/swifter-tips/Playground"]
+	path = playgrounds/swifter-tips/Playground
+	url = https://github.com/swifter-tips/Playground
+[submodule "playgrounds/NicolaLancellotti-About/About-Swift"]
+	path = playgrounds/NicolaLancellotti-About/About-Swift
+	url = https://github.com/NicolaLancellotti-About/About-Swift
+[submodule "playgrounds/nettlep/learn-swift"]
+	path = playgrounds/nettlep/learn-swift
+	url = https://github.com/nettlep/learn-swift
+[submodule "playgrounds/sivragav/swift-reference-pg"]
+	path = playgrounds/sivragav/swift-reference-pg
+	url = https://github.com/sivragav/swift-reference-pg
+[submodule "playgrounds/austinzheng/swift-worksheets"]
+	path = playgrounds/austinzheng/swift-worksheets
+	url = https://github.com/austinzheng/swift-worksheets
+[submodule "playgrounds/kefbytes/KefBytes_Swift_Crash_Course"]
+	path = playgrounds/kefbytes/KefBytes_Swift_Crash_Course
+	url = https://github.com/kefbytes/KefBytes_Swift_Crash_Course
+[submodule "playgrounds/cnoon/Swift-Introduction"]
+	path = playgrounds/cnoon/Swift-Introduction
+	url = https://github.com/cnoon/Swift-Introduction
+[submodule "playgrounds/developerY/Swift2_Playgrounds"]
+	path = playgrounds/developerY/Swift2_Playgrounds
+	url = https://github.com/developerY/Swift2_Playgrounds
+[submodule "playgrounds/iosdevzone/SwiftStandardLibraryPlaygrounds"]
+	path = playgrounds/iosdevzone/SwiftStandardLibraryPlaygrounds
+	url = https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds
+[submodule "playgrounds/uchicago-mobi/MPCS51030-2016-Summer-Playgrounds"]
+	path = playgrounds/uchicago-mobi/MPCS51030-2016-Summer-Playgrounds
+	url = https://github.com/uchicago-mobi/MPCS51030-2016-Summer-Playgrounds
+[submodule "playgrounds/andyshep/CoreDataPlaygrounds"]
+	path = playgrounds/andyshep/CoreDataPlaygrounds
+	url = https://github.com/andyshep/CoreDataPlaygrounds
+[submodule "playgrounds/sshrpe/TDDSwiftPlayground"]
+	path = playgrounds/sshrpe/TDDSwiftPlayground
+	url = https://github.com/sshrpe/TDDSwiftPlayground
+[submodule "playgrounds/sammyd/SwiftConf2016_Concurrency"]
+	path = playgrounds/sammyd/SwiftConf2016_Concurrency
+	url = https://github.com/sammyd/SwiftConf2016_Concurrency
+[submodule "playgrounds/jstart/Swiftly-Typed-Resources"]
+	path = playgrounds/jstart/Swiftly-Typed-Resources
+	url = https://github.com/jstart/Swiftly-Typed-Resources
+[submodule "playgrounds/cfdrake/swift-dsl-example"]
+	path = playgrounds/cfdrake/swift-dsl-example
+	url = https://github.com/cfdrake/swift-dsl-example
+[submodule "playgrounds/rectalogic/KVOPlayground"]
+	path = playgrounds/rectalogic/KVOPlayground
+	url = https://github.com/rectalogic/KVOPlayground
+[submodule "playgrounds/liuyubobobo/Swift-NSDate-Tutorial"]
+	path = playgrounds/liuyubobobo/Swift-NSDate-Tutorial
+	url = https://github.com/liuyubobobo/Swift-NSDate-Tutorial
+[submodule "playgrounds/MacMark/SwiftAndC"]
+	path = playgrounds/MacMark/SwiftAndC
+	url = https://github.com/MacMark/SwiftAndC
+[submodule "playgrounds/ndethore/swift-memory-management"]
+	path = playgrounds/ndethore/swift-memory-management
+	url = https://github.com/ndethore/swift-memory-management
+[submodule "playgrounds/edopelawi/DesignPatternsPlayground"]
+	path = playgrounds/edopelawi/DesignPatternsPlayground
+	url = https://github.com/edopelawi/DesignPatternsPlayground
+[submodule "playgrounds/ihrd/Design-Patterns-Playground"]
+	path = playgrounds/ihrd/Design-Patterns-Playground
+	url = https://github.com/ihrd/Design-Patterns-Playground
+[submodule "playgrounds/alskipp/Swift-Diagram-Playgrounds"]
+	path = playgrounds/alskipp/Swift-Diagram-Playgrounds
+	url = https://github.com/alskipp/Swift-Diagram-Playgrounds
+[submodule "playgrounds/davidahouse/SwiftProtocolExtensions"]
+	path = playgrounds/davidahouse/SwiftProtocolExtensions
+	url = https://github.com/davidahouse/SwiftProtocolExtensions
+[submodule "playgrounds/vichudson1/Battleship-POP-Example"]
+	path = playgrounds/vichudson1/Battleship-POP-Example
+	url = https://github.com/vichudson1/Battleship-POP-Example
+[submodule "playgrounds/nikita-leonov/ReactiveCocoaPlayground"]
+	path = playgrounds/nikita-leonov/ReactiveCocoaPlayground
+	url = https://github.com/nikita-leonov/ReactiveCocoaPlayground
+[submodule "playgrounds/ColinEberhardt/SwiftReactivePlayground"]
+	path = playgrounds/ColinEberhardt/SwiftReactivePlayground
+	url = https://github.com/ColinEberhardt/SwiftReactivePlayground
+[submodule "playgrounds/palmerc/Mandelbrot-Swift-Playground"]
+	path = playgrounds/palmerc/Mandelbrot-Swift-Playground
+	url = https://github.com/palmerc/Mandelbrot-Swift-Playground
+[submodule "playgrounds/Liquidsoul/XCTestPlayground"]
+	path = playgrounds/Liquidsoul/XCTestPlayground
+	url = https://github.com/Liquidsoul/XCTestPlayground
+[submodule "playgrounds/dasdom/InteractivePlayground"]
+	path = playgrounds/dasdom/InteractivePlayground
+	url = https://github.com/dasdom/InteractivePlayground
+[submodule "playgrounds/timbellay/Mondrian"]
+	path = playgrounds/timbellay/Mondrian
+	url = https://github.com/timbellay/Mondrian
+[submodule "playgrounds/kushtaneja/iPad_Swift_Playgrounds"]
+	path = playgrounds/kushtaneja/iPad_Swift_Playgrounds
+	url = https://github.com/kushtaneja/iPad_Swift_Playgrounds
+[submodule "playgrounds/mdiep/Logician"]
+	path = playgrounds/mdiep/Logician
+	url = https://github.com/mdiep/Logician
+[submodule "playgrounds/ijoshsmith/function-composition-in-swift"]
+	path = playgrounds/ijoshsmith/function-composition-in-swift
+	url = https://github.com/ijoshsmith/function-composition-in-swift
+[submodule "playgrounds/mbrandonw/learn-transducers-playground"]
+	path = playgrounds/mbrandonw/learn-transducers-playground
+	url = https://github.com/mbrandonw/learn-transducers-playground
+[submodule "playgrounds/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground"]
+	path = playgrounds/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground
+	url = https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground
+[submodule "playgrounds/mokagio/Swift-Functor-Introduction-Playground"]
+	path = playgrounds/mokagio/Swift-Functor-Introduction-Playground
+	url = https://github.com/mokagio/Swift-Functor-Introduction-Playground
+[submodule "playgrounds/raywenderlich/swift-algorithm-club"]
+	path = playgrounds/raywenderlich/swift-algorithm-club
+	url = https://github.com/raywenderlich/swift-algorithm-club
+[submodule "playgrounds/adrfer/Sort"]
+	path = playgrounds/adrfer/Sort
+	url = https://github.com/adrfer/Sort
+[submodule "playgrounds/akpw/VisualBinaryTrees"]
+	path = playgrounds/akpw/VisualBinaryTrees
+	url = https://github.com/akpw/VisualBinaryTrees
+[submodule "playgrounds/oliverfoggin/DataStructuresPlayground"]
+	path = playgrounds/oliverfoggin/DataStructuresPlayground
+	url = https://github.com/oliverfoggin/DataStructuresPlayground
+[submodule "playgrounds/sketchytech/Swiftography"]
+	path = playgrounds/sketchytech/Swiftography
+	url = https://github.com/sketchytech/Swiftography
+[submodule "playgrounds/ashokgelal/AlgorithmsPlayground"]
+	path = playgrounds/ashokgelal/AlgorithmsPlayground
+	url = https://github.com/ashokgelal/AlgorithmsPlayground
+[submodule "playgrounds/evansjohnson/DynamicProgrammingWithSwift"]
+	path = playgrounds/evansjohnson/DynamicProgrammingWithSwift
+	url = https://github.com/evansjohnson/DynamicProgrammingWithSwift
+[submodule "playgrounds/kyleweiner/Jelly-Bean-Problem"]
+	path = playgrounds/kyleweiner/Jelly-Bean-Problem
+	url = https://github.com/kyleweiner/Jelly-Bean-Problem
+[submodule "playgrounds/modulusMathews/ReEuclid"]
+	path = playgrounds/modulusMathews/ReEuclid
+	url = https://github.com/modulusMathews/ReEuclid
+[submodule "playgrounds/marciok/Mu"]
+	path = playgrounds/marciok/Mu
+	url = https://github.com/marciok/Mu
+[submodule "playgrounds/dimsumthinking/TurtlePlayground"]
+	path = playgrounds/dimsumthinking/TurtlePlayground
+	url = https://github.com/dimsumthinking/TurtlePlayground
+[submodule "playgrounds/xavieryao/Swift-Brainfuck"]
+	path = playgrounds/xavieryao/Swift-Brainfuck
+	url = https://github.com/xavieryao/Swift-Brainfuck
+[submodule "playgrounds/dasdom/UIStackViewPlayground"]
+	path = playgrounds/dasdom/UIStackViewPlayground
+	url = https://github.com/dasdom/UIStackViewPlayground
+[submodule "playgrounds/DigitalLeaves/BezierPathPlaygrounds"]
+	path = playgrounds/DigitalLeaves/BezierPathPlaygrounds
+	url = https://github.com/DigitalLeaves/BezierPathPlaygrounds
+[submodule "playgrounds/ralfebert/uikit-playground"]
+	path = playgrounds/ralfebert/uikit-playground
+	url = https://github.com/ralfebert/uikit-playground
+[submodule "playgrounds/BilalReffas/CheckmarkButton"]
+	path = playgrounds/BilalReffas/CheckmarkButton
+	url = https://github.com/BilalReffas/CheckmarkButton
+[submodule "playgrounds/steventroughtonsmith/windowmanager-playgroundbook"]
+	path = playgrounds/steventroughtonsmith/windowmanager-playgroundbook
+	url = https://github.com/steventroughtonsmith/windowmanager-playgroundbook
+[submodule "playgrounds/andresbrun/UIDynamicsPlayground"]
+	path = playgrounds/andresbrun/UIDynamicsPlayground
+	url = https://github.com/andresbrun/UIDynamicsPlayground
+[submodule "playgrounds/RobotsAndPencils/RPClarity"]
+	path = playgrounds/RobotsAndPencils/RPClarity
+	url = https://github.com/RobotsAndPencils/RPClarity
+[submodule "playgrounds/nickoneill/swiftclock"]
+	path = playgrounds/nickoneill/swiftclock
+	url = https://github.com/nickoneill/swiftclock
+[submodule "playgrounds/cwimberger/WatchKitAssetPlayground"]
+	path = playgrounds/cwimberger/WatchKitAssetPlayground
+	url = https://github.com/cwimberger/WatchKitAssetPlayground
+[submodule "playgrounds/jhurray/Swift2-Protocol-Extension-Example"]
+	path = playgrounds/jhurray/Swift2-Protocol-Extension-Example
+	url = https://github.com/jhurray/Swift2-Protocol-Extension-Example
+[submodule "playgrounds/Jesse-calkin/tinting"]
+	path = playgrounds/Jesse-calkin/tinting
+	url = https://github.com/Jesse-calkin/tinting
+[submodule "playgrounds/danielrhammond/GIF-Playground"]
+	path = playgrounds/danielrhammond/GIF-Playground
+	url = https://github.com/danielrhammond/GIF-Playground
+[submodule "playgrounds/mhorga/Raytracing"]
+	path = playgrounds/mhorga/Raytracing
+	url = https://github.com/mhorga/Raytracing
+[submodule "playgrounds/mhorga/Raytracing2"]
+	path = playgrounds/mhorga/Raytracing2
+	url = https://github.com/mhorga/Raytracing2
+[submodule "playgrounds/mhorga/Raytracing3"]
+	path = playgrounds/mhorga/Raytracing3
+	url = https://github.com/mhorga/Raytracing3
+[submodule "playgrounds/mhorga/Raytracing4"]
+	path = playgrounds/mhorga/Raytracing4
+	url = https://github.com/mhorga/Raytracing4
+[submodule "playgrounds/mhorga/Raytracing5"]
+	path = playgrounds/mhorga/Raytracing5
+	url = https://github.com/mhorga/Raytracing5
+[submodule "playgrounds/krutarth/WWDC16Logo"]
+	path = playgrounds/krutarth/WWDC16Logo
+	url = https://github.com/krutarth/WWDC16Logo
+[submodule "playgrounds/tototti/wwdc16_typography_playground"]
+	path = playgrounds/tototti/wwdc16_typography_playground
+	url = https://github.com/tototti/wwdc16_typography_playground
+[submodule "playgrounds/FlexMonkey/Interpolation-Playground-"]
+	path = playgrounds/FlexMonkey/Interpolation-Playground-
+	url = https://github.com/FlexMonkey/Interpolation-Playground-
+[submodule "playgrounds/FlexMonkey/CoreImageForSwiftPlaygrounds"]
+	path = playgrounds/FlexMonkey/CoreImageForSwiftPlaygrounds
+	url = https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds
+[submodule "playgrounds/mortenbrudvik/ImageProcessor"]
+	path = playgrounds/mortenbrudvik/ImageProcessor
+	url = https://github.com/mortenbrudvik/ImageProcessor
+[submodule "playgrounds/jtbandes/Metalbrot.playground"]
+	path = playgrounds/jtbandes/Metalbrot.playground
+	url = https://github.com/jtbandes/Metalbrot.playground
+[submodule "playgrounds/haawa799/METAL_Playground"]
+	path = playgrounds/haawa799/METAL_Playground
+	url = https://github.com/haawa799/METAL_Playground
+[submodule "playgrounds/rmirabelli/CoreAnimationSwiftPlaygrounds"]
+	path = playgrounds/rmirabelli/CoreAnimationSwiftPlaygrounds
+	url = https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds
+[submodule "playgrounds/JakeLin/iOSAnimationSample"]
+	path = playgrounds/JakeLin/iOSAnimationSample
+	url = https://github.com/JakeLin/iOSAnimationSample
+[submodule "playgrounds/d-ronnqvist/Additive-Animations-Playground"]
+	path = playgrounds/d-ronnqvist/Additive-Animations-Playground
+	url = https://github.com/d-ronnqvist/Additive-Animations-Playground
+[submodule "playgrounds/knightsc/CoreAnimationPlayground"]
+	path = playgrounds/knightsc/CoreAnimationPlayground
+	url = https://github.com/knightsc/CoreAnimationPlayground
+[submodule "playgrounds/dionlarson/Duet-Trail-Effect-SpriteKit-Playground"]
+	path = playgrounds/dionlarson/Duet-Trail-Effect-SpriteKit-Playground
+	url = https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground
+[submodule "playgrounds/MacMeDan/SpriteKitCollisions"]
+	path = playgrounds/MacMeDan/SpriteKitCollisions
+	url = https://github.com/MacMeDan/SpriteKitCollisions
+[submodule "playgrounds/jaredmpayne/Sprite-Kit-Collisions-Playground"]
+	path = playgrounds/jaredmpayne/Sprite-Kit-Collisions-Playground
+	url = https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground
+[submodule "playgrounds/UCh/swift-scene-kit-playgrounds"]
+	path = playgrounds/UCh/swift-scene-kit-playgrounds
+	url = https://github.com/UCh/swift-scene-kit-playgrounds
+[submodule "playgrounds/audiokit/AudioKitPlaygroundBook"]
+	path = playgrounds/audiokit/AudioKitPlaygroundBook
+	url = https://github.com/audiokit/AudioKitPlaygroundBook
+[submodule "playgrounds/dreamwieber/BachPlayground"]
+	path = playgrounds/dreamwieber/BachPlayground
+	url = https://github.com/dreamwieber/BachPlayground
+[submodule "playgrounds/genedelisa/PlayerNodePlayground"]
+	path = playgrounds/genedelisa/PlayerNodePlayground
+	url = https://github.com/genedelisa/PlayerNodePlayground
+[submodule "playgrounds/henrinormak/lindenmayer"]
+	path = playgrounds/henrinormak/lindenmayer
+	url = https://github.com/henrinormak/lindenmayer
+[submodule "playgrounds/jakebromberg/Swift-Natural-Numbers"]
+	path = playgrounds/jakebromberg/Swift-Natural-Numbers
+	url = https://github.com/jakebromberg/Swift-Natural-Numbers
+[submodule "playgrounds/haginile/SwiftAccelerate"]
+	path = playgrounds/haginile/SwiftAccelerate
+	url = https://github.com/haginile/SwiftAccelerate
+[submodule "playgrounds/DylanModesitt/swiftyMathematics"]
+	path = playgrounds/DylanModesitt/swiftyMathematics
+	url = https://github.com/DylanModesitt/swiftyMathematics
+[submodule "playgrounds/codePrincess/playgrounds"]
+	path = playgrounds/codePrincess/playgrounds
+	url = https://github.com/codePrincess/playgrounds
+[submodule "playgrounds/renrawnalon/ArgoPlayground"]
+	path = playgrounds/renrawnalon/ArgoPlayground
+	url = https://github.com/renrawnalon/ArgoPlayground
+[submodule "playgrounds/djromero/S3UploaderPlayground"]
+	path = playgrounds/djromero/S3UploaderPlayground
+	url = https://github.com/djromero/S3UploaderPlayground
+[submodule "playgrounds/willowtreeapps/RealmSwiftPlayground"]
+	path = playgrounds/willowtreeapps/RealmSwiftPlayground
+	url = https://github.com/willowtreeapps/RealmSwiftPlayground
+[submodule "playgrounds/Jasdev/Public-Extension"]
+	path = playgrounds/Jasdev/Public-Extension
+	url = https://github.com/Jasdev/Public-Extension
+[submodule "playgrounds/zwaldowski/ParksAndRecreation"]
+	path = playgrounds/zwaldowski/ParksAndRecreation
+	url = https://github.com/zwaldowski/ParksAndRecreation
+[submodule "playgrounds/uraimo/Swift-Playgrounds"]
+	path = playgrounds/uraimo/Swift-Playgrounds
+	url = https://github.com/uraimo/Swift-Playgrounds
+[submodule "playgrounds/manuelCarlos/Swift-Playgrounds"]
+	path = playgrounds/manuelCarlos/Swift-Playgrounds
+	url = https://github.com/manuelCarlos/Swift-Playgrounds
+[submodule "playgrounds/sketchytech/SwiftPlaygrounds"]
+	path = playgrounds/sketchytech/SwiftPlaygrounds
+	url = https://github.com/sketchytech/SwiftPlaygrounds
+[submodule "playgrounds/madbat/Swift-fun-playgrounds"]
+	path = playgrounds/madbat/Swift-fun-playgrounds
+	url = https://github.com/madbat/Swift-fun-playgrounds
+[submodule "playgrounds/BradLarson/PersonalSwiftPlaygrounds"]
+	path = playgrounds/BradLarson/PersonalSwiftPlaygrounds
+	url = https://github.com/BradLarson/PersonalSwiftPlaygrounds
+[submodule "playgrounds/dmikusa/swift_playgrounds"]
+	path = playgrounds/dmikusa/swift_playgrounds
+	url = https://github.com/dmikusa/swift_playgrounds
+[submodule "playgrounds/Cananito/Playgrounds"]
+	path = playgrounds/Cananito/Playgrounds
+	url = https://github.com/Cananito/Playgrounds
+[submodule "playgrounds/mgrebenets/playgrounds"]
+	path = playgrounds/mgrebenets/playgrounds
+	url = https://github.com/mgrebenets/playgrounds
+[submodule "playgrounds/uberbruns/SwiftPlaygrounds"]
+	path = playgrounds/uberbruns/SwiftPlaygrounds
+	url = https://github.com/uberbruns/SwiftPlaygrounds
+[submodule "playgrounds/tnantoka/IconCreator"]
+	path = playgrounds/tnantoka/IconCreator
+	url = https://github.com/tnantoka/IconCreator
+[submodule "playgrounds/robin/2048_Playground"]
+	path = playgrounds/robin/2048_Playground
+	url = https://github.com/robin/2048_Playground
+[submodule "playgrounds/JustinJiaDev/SwiftShell"]
+	path = playgrounds/JustinJiaDev/SwiftShell
+	url = https://github.com/JustinJiaDev/SwiftShell
+[submodule "playgrounds/steventroughtonsmith/files-playgroundbook"]
+	path = playgrounds/steventroughtonsmith/files-playgroundbook
+	url = https://github.com/steventroughtonsmith/files-playgroundbook
+[submodule "playgrounds/joalbright/Gameboard"]
+	path = playgrounds/joalbright/Gameboard
+	url = https://github.com/joalbright/Gameboard
+[submodule "playgrounds/jeremyconkin/StarWarsSeals"]
+	path = playgrounds/jeremyconkin/StarWarsSeals
+	url = https://github.com/jeremyconkin/StarWarsSeals
+[submodule "playgrounds/sketchytech/SwiftFiles"]
+	path = playgrounds/sketchytech/SwiftFiles
+	url = https://github.com/sketchytech/SwiftFiles
+[submodule "playgrounds/brianhill/register-vm-in-swift"]
+	path = playgrounds/brianhill/register-vm-in-swift
+	url = https://github.com/brianhill/register-vm-in-swift
+[submodule "playgrounds/jtbandes/DSCOVR.playground"]
+	path = playgrounds/jtbandes/DSCOVR.playground
+	url = https://github.com/jtbandes/DSCOVR.playground
