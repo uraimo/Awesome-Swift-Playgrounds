@@ -71,8 +71,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [A Swift Introduction to Core Data](https://github.com/andyshep/CoreDataPlaygrounds) - Learn Core Data experimenting directly in this playground. 🌟 ☘️
 * [TDDSwiftPlayground](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest. ☘️
 * [Concurrency on iOS](https://github.com/sammyd/SwiftConf2016_Concurrency) - Concurrency and Parallelism in iOS. ☘️
+* [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift. ☘️
 * [Swiftly Typed Resources](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with.
-* [Swift DSL Example](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Swift KVO Closures](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground.
 * [Swift Date Tutorial](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) - Learn everythig about NSDate.
 * [Swift And C](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift.
@@ -114,7 +114,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ## Playgrounds from Playgroundbooks
 *Playgrounds derived from iPad Swift Playgroundbooks*
 
-* [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) - No need of an iPad to open Playgroundbook.☘️
+* [iPad Swift Playgrounds](https://github.com/kushtaneja/iPad_Swift_Playgrounds) - The sample playgroundbooks converted to playgrounds.☘️
 
 ## Theoretical Computer Science
 
@@ -142,6 +142,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Write your own language: Mu](https://github.com/marciok/Mu) - A playground explaining how to create a tiny programming language named Mu. 🌟 ☘️
 * [ASM Swift](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift. 🌟 ☘️
+* [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground.
 
@@ -178,9 +179,9 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Animations
 
 * [Core Animation Swift Playgrounds](https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds) - A set of interesting Core Animation playgounds. ☘️
-* [iOS Animation Samples](https://github.com/JakeLin/iOSAnimationSample) - Experiment with iOS animations. 🌟
 * [UIViewPropertyAnimator Playground](https://github.com/mathewsanders/Scrubber) - Playground demonstrating UIViewPropertyAnimator. ☘️
 * [WWDC Crowd Simulator 2017](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017) - A SpriteKit experiment to simulate the WWDC2017 logo crowd. ☘️
+* [iOS Animation Samples](https://github.com/JakeLin/iOSAnimationSample) - Experiment with iOS animations.
 * [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation.
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide.
 * [Duet-Inspired Trail Effect](https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground) - How to get a Duet style trailing effect in SpriteKit.
@@ -242,5 +243,4 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Game Boards](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟
 * [StarWars Seals](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground.
-* [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟
 * [Earth photos](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟
