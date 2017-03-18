@@ -349,3 +349,6 @@
 [submodule "playgrounds/NSExceptional/ASM-Swift"]
 	path = playgrounds/NSExceptional/ASM-Swift
 	url = https://github.com/NSExceptional/ASM-Swift.git
+[submodule "playgrounds/haxpor/ios-design-patterns"]
+	path = playgrounds/haxpor/ios-design-patterns
+	url = https://github.com/haxpor/ios-design-patterns.git

@@ -81,6 +81,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Design Patterns
 
 * [Design Patterns Playground](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 3. ☘️
+* [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) - Sample projects for MVC, MVP, MVVM, and VIPER. ☘️
 * [Design Patterns Playgrounds](https://github.com/ihrd/Design-Patterns-Playground) - Playground that show various traditional design patterns.
 
 ### Protocol Oriented Programming
