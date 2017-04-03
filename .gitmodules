@@ -226,9 +226,6 @@
 [submodule "playgrounds/rmirabelli/CoreAnimationSwiftPlaygrounds"]
 	path = playgrounds/rmirabelli/CoreAnimationSwiftPlaygrounds
 	url = https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds
-[submodule "playgrounds/JakeLin/iOSAnimationSample"]
-	path = playgrounds/JakeLin/iOSAnimationSample
-	url = https://github.com/JakeLin/iOSAnimationSample
 [submodule "playgrounds/d-ronnqvist/Additive-Animations-Playground"]
 	path = playgrounds/d-ronnqvist/Additive-Animations-Playground
 	url = https://github.com/d-ronnqvist/Additive-Animations-Playground
