@@ -349,3 +349,6 @@
 [submodule "playgrounds/haxpor/ios-design-patterns"]
 	path = playgrounds/haxpor/ios-design-patterns
 	url = https://github.com/haxpor/ios-design-patterns.git
+[submodule "playgrounds/Juniorlimaivd/LaunchPad-Playground"]
+	path = playgrounds/Juniorlimaivd/LaunchPad-Playground
+	url = https://github.com/Juniorlimaivd/LaunchPad-Playground.git
