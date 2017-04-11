@@ -352,3 +352,6 @@
 [submodule "playgrounds/Juniorlimaivd/LaunchPad-Playground"]
 	path = playgrounds/Juniorlimaivd/LaunchPad-Playground
 	url = https://github.com/Juniorlimaivd/LaunchPad-Playground.git
+[submodule "playgrounds/luubra/EmojiIntelligence"]
+	path = playgrounds/luubra/EmojiIntelligence
+	url = https://github.com/Luubra/EmojiIntelligence.git
