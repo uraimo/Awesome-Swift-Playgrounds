@@ -355,3 +355,15 @@
 [submodule "playgrounds/luubra/EmojiIntelligence"]
 	path = playgrounds/luubra/EmojiIntelligence
 	url = https://github.com/Luubra/EmojiIntelligence.git
+[submodule "playgrounds/dfreniche/modern-core-data-playground"]
+	path = playgrounds/dfreniche/modern-core-data-playground
+	url = https://github.com/dfreniche/modern-core-data-playground.git
+[submodule "playgrounds/marciok/katan"]
+	path = playgrounds/marciok/katan
+	url = https://github.com/marciok/katan.git
+[submodule "playgrounds/gongzhang/julia-set-playground"]
+	path = playgrounds/gongzhang/julia-set-playground
+	url = https://github.com/gongzhang/julia-set-playground.git
+[submodule "playgrounds/W00dL3cs/Super-Maze"]
+	path = playgrounds/W00dL3cs/Super-Maze
+	url = https://github.com/W00dL3cs/Super-Maze.git
