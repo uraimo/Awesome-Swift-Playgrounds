@@ -367,3 +367,15 @@
 [submodule "playgrounds/W00dL3cs/Super-Maze"]
 	path = playgrounds/W00dL3cs/Super-Maze
 	url = https://github.com/W00dL3cs/Super-Maze.git
+[submodule "playgrounds/dbbudd/Geometry-Swift-PlaygroundBook"]
+	path = playgrounds/dbbudd/Geometry-Swift-PlaygroundBook
+	url = https://github.com/dbbudd/Geometry-Swift-PlaygroundBook.git
+[submodule "playgrounds/BenEmdon/PixelArtMaker"]
+	path = playgrounds/BenEmdon/PixelArtMaker
+	url = https://github.com/BenEmdon/PixelArtMaker.git
+[submodule "playgrounds/kirkbyo/Polydoxical"]
+	path = playgrounds/kirkbyo/Polydoxical
+	url = https://github.com/kirkbyo/Polydoxical.git
+[submodule "playgrounds/aabosh/Tic-Tac-Toe"]
+	path = playgrounds/aabosh/Tic-Tac-Toe
+	url = https://github.com/aabosh/Tic-Tac-Toe.git
