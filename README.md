@@ -215,6 +215,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swift Accelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
 * [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
 * [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich.
+* [ Abstract Algebra] (https://github.com/taketo1024/SwiftyAlgebra) - Abstract Monoid Group AdditiveGroup Ring EuclideanRing Field Concrete Numbers Integer Rational Real Permutation Matrix Polynominal Quotient QuotientRing IntQuotientRing PolynominalQuotientRing  
 
 ## Libraries and APIs
 *Library tutorials, in a playground*
