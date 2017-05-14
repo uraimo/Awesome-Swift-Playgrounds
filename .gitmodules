@@ -379,3 +379,6 @@
 [submodule "playgrounds/aabosh/Tic-Tac-Toe"]
 	path = playgrounds/aabosh/Tic-Tac-Toe
 	url = https://github.com/aabosh/Tic-Tac-Toe.git
+[submodule "playgrounds/taketo1024/SwiftyAlgebra"]
+	path = playgrounds/taketo1024/SwiftyAlgebra
+	url = https://github.com/taketo1024/SwiftyAlgebra

@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![133 playgrounds](https://img.shields.io/badge/Playgrounds:-133-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![134 playgrounds](https://img.shields.io/badge/Playgrounds:-134-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -215,7 +215,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swift Accelerate](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra.
 * [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics.
 * [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich.
-* [ Abstract Algebra] (https://github.com/taketo1024/SwiftyAlgebra) - Abstract Monoid Group AdditiveGroup Ring EuclideanRing Field Concrete Numbers Integer Rational Real Permutation Matrix Polynominal Quotient QuotientRing IntQuotientRing PolynominalQuotientRing  
+* [Abstract Algebra] (https://github.com/taketo1024/SwiftyAlgebra) - Abstract algebra concepts implemented in Swift. ☘️   
 
 ## Libraries and APIs
 *Library tutorials, in a playground*
@@ -251,7 +251,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [File Browser Playground](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.📱 ☘️
 * [LaunchPad Playground](https://github.com/Juniorlimaivd/LaunchPad-Playground) - A playground that simulates a real LaunchPad for making music.☘️
 * [Super Maze](https://github.com/W00dL3cs/Super-Maze) - A programmatic maze generator and solver.☘️ 
-* [Pixel Art Maker](https://github.com/BenEmdon/PixelArtMaker.git) - A playground to make pixel art. ☘️
+* [Pixel Art Maker](https://github.com/BenEmdon/PixelArtMaker) - A playground to make pixel art. ☘️
 * [Tic Tac Toe](https://github.com/aabosh/Tic-Tac-Toe) - Tic tac toe in a playground. ☘️
 * [Game Boards](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟
 * [StarWars Seals](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews
