@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![134 playgrounds](https://img.shields.io/badge/Playgrounds:-134-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![130 playgrounds](https://img.shields.io/badge/Playgrounds:-130-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -21,6 +21,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 📱 = iOS Playground book
 
 ☘️  = Swift 3+ Playground
+
+🍁 = Swift 4+ Playground
 
 ### Contents
 
@@ -56,14 +58,10 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟 ☘️
 * [Swifter Tips](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language. ☘️
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language. ☘️
-* [Learn Swift](https://github.com/nettlep/learn-swift) - 30+ playgrounds that follow the "Language Guide" section of Apple's Swift book. 🌟
-* [Swift Reference Playground](https://github.com/sivahq/swift-reference-pg) - Reference playground with basic language syntax and examples.
-* [Swift Worksheets](https://github.com/austinzheng/swift-worksheets) - Learn Swift by reading through and experimenting with playgrounds.
+* [MPCS51032 UChicago iOS Course](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - Playgrounds from the 2017 Spring iOS course of the University of Chicago. ☘️
+* [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
 * [Swift Crash Course](https://github.com/kefbytes/KefBytes_Swift_Crash_Course) - A Swift crash course, with links explaining the language and a playground for each topic.
 * [Swift-Introduction](https://github.com/cnoon/Swift-Introduction) - Collection of playgrounds covering various aspect of the Swift language.
-* [Swift2 by Playgrounds](https://github.com/developerY/Swift2_Playgrounds) - Learn Swift 2.0 from playgrounds.
-* [SwiftStandardLibraryPlaygrounds](https://github.com/iosdevzone/SwiftStandardLibraryPlaygrounds) - A collection of playground demonstrating the use of the Swift Standard Library.
-* [MPCS51030 UChicago iOS Course](https://github.com/uchicago-mobi/MPCS51030-2016-Summer-Playgrounds) - Playgrounds from the 2015 iOS course of the University of Chicago.
 
 ## Learning Swift: Advanced Topics
 *Advanced topics, useful once you have mastered the basics of the language*

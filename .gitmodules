@@ -382,3 +382,6 @@
 [submodule "playgrounds/taketo1024/SwiftyAlgebra"]
 	path = playgrounds/taketo1024/SwiftyAlgebra
 	url = https://github.com/taketo1024/SwiftyAlgebra
+[submodule "playgrounds/ole/whats-new-in-swift-4"]
+	path = playgrounds/ole/whats-new-in-swift-4
+	url = https://github.com/ole/whats-new-in-swift-4.git
