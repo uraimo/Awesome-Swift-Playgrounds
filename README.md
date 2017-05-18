@@ -140,6 +140,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Dynamic Programming With Swift](https://github.com/evansjohnson/DynamicProgrammingWithSwift) - A set of three dynamic programming problems implemented in a Swift.
 * [The Jelly Bean Problem](https://github.com/kyleweiner/Jelly-Bean-Problem) - The Jelly Bean problem from Wait But Why.
 * [Euclidean Strings](https://github.com/modulusMathews/ReEuclid) - A playground leveraging ReSwift to generate Euclidean Strings.
+* [Sorting Algorithms](https://github.com/bwide/Sorting-Algorithms-Playground) - An interactive Playground to teach sorting algorithms. 🍀📱
 
 ### Languages
 *Programming language interpreters implemented in Swift*
