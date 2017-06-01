@@ -10,7 +10,7 @@ If you see a playground here that does not work anymore with the current release
 
 ### Downloading all the playgrounds
 
-Unless otherwise indicated, all playground are compatible with Swift 3.
+Unless otherwise indicated, all playgrounds are compatible with Swift 3.
 
 All the playgrounds are available as submodules in the `playgrounds/` directory, to download them all in one go, just clone this repository with `git clone --recursive https://github.com/uraimo/Awesome-Swift-Playgrounds.git` or execute `git submodule update --init` after you have cloned the repository the usual way. 
 
