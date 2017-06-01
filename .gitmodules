@@ -382,3 +382,6 @@
 [submodule "playgrounds/SebastianBoldt/GOFSwift"]
 	path = playgrounds/SebastianBoldt/GOFSwift
 	url = https://github.com/SebastianBoldt/GOFSwift.git
+[submodule "playgrounds/ochococo/Design-Patterns-In-Swift"]
+	path = playgrounds/ochococo/Design-Patterns-In-Swift
+	url = https://github.com/ochococo/Design-Patterns-In-Swift.git
