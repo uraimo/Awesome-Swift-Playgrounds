@@ -385,3 +385,6 @@
 [submodule "playgrounds/ole/whats-new-in-swift-4"]
 	path = playgrounds/ole/whats-new-in-swift-4
 	url = https://github.com/ole/whats-new-in-swift-4.git
+[submodule "playgrounds/ahoppen/introduction-to-compilers"]
+	path = playgrounds/ahoppen/introduction-to-compilers
+	url = https://github.com/ahoppen/introduction-to-compilers.git
