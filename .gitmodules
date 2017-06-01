@@ -22,12 +22,6 @@
 [submodule "playgrounds/austinzheng/swift-worksheets"]
 	path = playgrounds/austinzheng/swift-worksheets
 	url = https://github.com/austinzheng/swift-worksheets
-[submodule "playgrounds/kefbytes/KefBytes_Swift_Crash_Course"]
-	path = playgrounds/kefbytes/KefBytes_Swift_Crash_Course
-	url = https://github.com/kefbytes/KefBytes_Swift_Crash_Course
-[submodule "playgrounds/cnoon/Swift-Introduction"]
-	path = playgrounds/cnoon/Swift-Introduction
-	url = https://github.com/cnoon/Swift-Introduction
 [submodule "playgrounds/developerY/Swift2_Playgrounds"]
 	path = playgrounds/developerY/Swift2_Playgrounds
 	url = https://github.com/developerY/Swift2_Playgrounds
@@ -43,9 +37,6 @@
 [submodule "playgrounds/sshrpe/TDDSwiftPlayground"]
 	path = playgrounds/sshrpe/TDDSwiftPlayground
 	url = https://github.com/sshrpe/TDDSwiftPlayground
-[submodule "playgrounds/sammyd/SwiftConf2016_Concurrency"]
-	path = playgrounds/sammyd/SwiftConf2016_Concurrency
-	url = https://github.com/sammyd/SwiftConf2016_Concurrency
 [submodule "playgrounds/jstart/Swiftly-Typed-Resources"]
 	path = playgrounds/jstart/Swiftly-Typed-Resources
 	url = https://github.com/jstart/Swiftly-Typed-Resources
@@ -67,9 +58,6 @@
 [submodule "playgrounds/edopelawi/DesignPatternsPlayground"]
 	path = playgrounds/edopelawi/DesignPatternsPlayground
 	url = https://github.com/edopelawi/DesignPatternsPlayground
-[submodule "playgrounds/ihrd/Design-Patterns-Playground"]
-	path = playgrounds/ihrd/Design-Patterns-Playground
-	url = https://github.com/ihrd/Design-Patterns-Playground
 [submodule "playgrounds/alskipp/Swift-Diagram-Playgrounds"]
 	path = playgrounds/alskipp/Swift-Diagram-Playgrounds
 	url = https://github.com/alskipp/Swift-Diagram-Playgrounds
@@ -268,15 +256,6 @@
 [submodule "playgrounds/codePrincess/playgrounds"]
 	path = playgrounds/codePrincess/playgrounds
 	url = https://github.com/codePrincess/playgrounds
-[submodule "playgrounds/renrawnalon/ArgoPlayground"]
-	path = playgrounds/renrawnalon/ArgoPlayground
-	url = https://github.com/renrawnalon/ArgoPlayground
-[submodule "playgrounds/djromero/S3UploaderPlayground"]
-	path = playgrounds/djromero/S3UploaderPlayground
-	url = https://github.com/djromero/S3UploaderPlayground
-[submodule "playgrounds/willowtreeapps/RealmSwiftPlayground"]
-	path = playgrounds/willowtreeapps/RealmSwiftPlayground
-	url = https://github.com/willowtreeapps/RealmSwiftPlayground
 [submodule "playgrounds/Jasdev/Public-Extension"]
 	path = playgrounds/Jasdev/Public-Extension
 	url = https://github.com/Jasdev/Public-Extension
@@ -388,3 +367,18 @@
 [submodule "playgrounds/ahoppen/introduction-to-compilers"]
 	path = playgrounds/ahoppen/introduction-to-compilers
 	url = https://github.com/ahoppen/introduction-to-compilers.git
+[submodule "playgrounds/alskipp/Swift-Adventures-In-Monad-Land"]
+	path = playgrounds/alskipp/Swift-Adventures-In-Monad-Land
+	url = https://github.com/alskipp/Swift-Adventures-In-Monad-Land.git
+[submodule "playgrounds/sgr-ksmt/RxPlayground"]
+	path = playgrounds/sgr-ksmt/RxPlayground
+	url = https://github.com/sgr-ksmt/RxPlayground.git
+[submodule "playgrounds/sammyd/2017AtSwift_Concurrency"]
+	path = playgrounds/sammyd/2017AtSwift_Concurrency
+	url = https://github.com/sammyd/2017AtSwift_Concurrency.git
+[submodule "playgrounds/cmvicentehe/FunctionalProgrammingDesignPatterns"]
+	path = playgrounds/cmvicentehe/FunctionalProgrammingDesignPatterns
+	url = https://github.com/cmvicentehe/FunctionalProgrammingDesignPatterns.git
+[submodule "playgrounds/SebastianBoldt/GOFSwift"]
+	path = playgrounds/SebastianBoldt/GOFSwift
+	url = https://github.com/SebastianBoldt/GOFSwift.git

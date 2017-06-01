@@ -7,7 +7,6 @@ Please read CONTRIBUTING.md before completing this PR and verify that you have i
     mkdir playgrounds/uraimo
     cd playgrounds/uraimo
     git submodule add https://github.com/uraimo/Swift-Playgrounds
-[ ] If the playground is Swift 3 compatible, add a ☘️ at the end of the description.
 [ ] Increment the playgrounds counter at the top of README.md, for example: 
     ![133 playgrounds](https://img.shields.io/badge/Playgrounds:-133-orange.svg)
     should become: ![134 playgrounds](https://img.shields.io/badge/Playgrounds:-134-orange.svg)
