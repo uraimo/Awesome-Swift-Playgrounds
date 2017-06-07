@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![125 playgrounds](https://img.shields.io/badge/Playgrounds:-125-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![126 playgrounds](https://img.shields.io/badge/Playgrounds:-126-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -200,6 +200,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [SpriteKit Swift 3](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exploring Sprite Kit.
 * [SpriteKit Collisions](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and SpriteKit. ⏳
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift. ⏳
+* [SceneKit ARKit Demo](https://github.com/mhanlon/ARKitDemoPlayground) - The Xcode 9 ARKit SpriteKit demo as a playground.📱🍁
+
 
 ## Audio
 *Sounds and music*
