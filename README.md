@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![126 playgrounds](https://img.shields.io/badge/Playgrounds:-126-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![127 playgrounds](https://img.shields.io/badge/Playgrounds:-127-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -39,6 +39,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 - [Theoretical Computer Science](#theoretical-computer-science)
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [Languages](#languages)
+    - [Machine Learning](#machine-learning)
 - [UIKit And Graphics](#uikit-and-graphics)
   - [Core Image](#core-image)
   - [Metal](#metal)
@@ -155,6 +156,10 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟 ⏳
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ⏳
+
+### Machine Learning
+
+*[Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) - A neural network Swift playground, with no third party dependencies. 📱
 
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
