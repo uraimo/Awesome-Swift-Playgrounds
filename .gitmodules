@@ -382,3 +382,21 @@
 [submodule "playgrounds/ochococo/Design-Patterns-In-Swift"]
 	path = playgrounds/ochococo/Design-Patterns-In-Swift
 	url = https://github.com/ochococo/Design-Patterns-In-Swift.git
+[submodule "playgrounds/BenEmdon/PixelArtMaker"]
+	path = playgrounds/BenEmdon/PixelArtMaker
+	url = https://github.com/BenEmdon/PixelArtMaker.git
+[submodule "playgrounds/Dev1an/A-Star"]
+	path = playgrounds/Dev1an/A-Star
+	url = https://github.com/Dev1an/A-Star.git
+[submodule "playgrounds/Thomvis/Swiftcoin"]
+	path = playgrounds/Thomvis/Swiftcoin
+	url = https://github.com/Thomvis/Swiftcoin.git
+[submodule "playgrounds/mkchoi212/LBAC-Swift"]
+	path = playgrounds/mkchoi212/LBAC-Swift
+	url = https://github.com/mkchoi212/LBAC-Swift.git
+[submodule "playgrounds/mattgallagher/CocoaWithLovePlaygrounds"]
+	path = playgrounds/mattgallagher/CocoaWithLovePlaygrounds
+	url = https://github.com/mattgallagher/CocoaWithLovePlaygrounds.git
+[submodule "playgrounds/benbahrenburg/SentimentlySwift"]
+	path = playgrounds/benbahrenburg/SentimentlySwift
+	url = https://github.com/benbahrenburg/SentimentlySwift.git
