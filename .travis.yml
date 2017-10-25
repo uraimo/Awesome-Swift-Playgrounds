@@ -7,4 +7,4 @@ before_script:
       - gem install awesome_bot
 
 script:
-      - awesome_bot README.md --allow-dupe --white-list raywenderlich,developer.apple.com,https://github.com/uraimo/Awesome-Swift-Playgrounds.git
+      - awesome_bot README.md --allow-dupe --white-list raywenderlich,developer.apple.com,https://github.com/uraimo/Awesome-Swift-Playgrounds.git,https://github.com/p-sun/iOS-Effects-and-Animations/tree/master/Newton
