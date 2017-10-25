@@ -400,3 +400,15 @@
 [submodule "playgrounds/benbahrenburg/SentimentlySwift"]
 	path = playgrounds/benbahrenburg/SentimentlySwift
 	url = https://github.com/benbahrenburg/SentimentlySwift.git
+[submodule "playgrounds/ochococo/OOD-Principles-In-Swift"]
+	path = playgrounds/ochococo/OOD-Principles-In-Swift
+	url = https://github.com/ochococo/OOD-Principles-In-Swift.git
+[submodule "playgrounds/p-sun/Animated-Sorting-Algorithms"]
+	path = playgrounds/p-sun/Animated-Sorting-Algorithms
+	url = https://github.com/p-sun/Animated-Sorting-Algorithms.git
+[submodule "playgrounds/ogulcan/SwiftRegEx"]
+	path = playgrounds/ogulcan/SwiftRegEx
+	url = https://github.com/ogulcan/SwiftRegEx.git
+[submodule "playgrounds/AndrejKolar/NetworkStack"]
+	path = playgrounds/AndrejKolar/NetworkStack
+	url = https://github.com/AndrejKolar/NetworkStack.git
