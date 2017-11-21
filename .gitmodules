@@ -412,3 +412,6 @@
 [submodule "playgrounds/AndrejKolar/NetworkStack"]
 	path = playgrounds/AndrejKolar/NetworkStack
 	url = https://github.com/AndrejKolar/NetworkStack.git
+[submodule "playgrounds/tomquist/DebugView"]
+	path = playgrounds/tomquist/DebugView
+	url = https://github.com/tomquist/DebugView.git
