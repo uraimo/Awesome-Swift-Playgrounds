@@ -415,3 +415,12 @@
 [submodule "playgrounds/tomquist/DebugView"]
 	path = playgrounds/tomquist/DebugView
 	url = https://github.com/tomquist/DebugView.git
+[submodule "playgrounds/mpangburn/Expressions"]
+	path = playgrounds/mpangburn/Expressions
+	url = https://github.com/mpangburn/Expressions.git
+[submodule "playgrounds/igorkulman/SwiftPascalInterpreter"]
+	path = playgrounds/igorkulman/SwiftPascalInterpreter
+	url = https://github.com/igorkulman/SwiftPascalInterpreter.git
+[submodule "playgrounds/cl7/Astronomy"]
+	path = playgrounds/cl7/Astronomy
+	url = https://github.com/cl7/Astronomy.git
