@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![141 playgrounds](https://img.shields.io/badge/Playgrounds:-141-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![143 playgrounds](https://img.shields.io/badge/Playgrounds:-143-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -142,6 +142,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Functional Debug View](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
 * [Swift Adventures in Monad Land](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) - Learn about monads.
 * [Functional Design Patterns](https://github.com/cmvicentehe/FunctionalProgrammingDesignPatterns) - A few functional programming concept and patterns.
+* [OOP with Functions in Swift](https://github.com/iamleeg/OOPInFPInSwift) - Object-Oriented Programming in Functional Programming in Swift. 🍁
 * [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers. ⏳ 
 * [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures. ⏳ 
 * [Functors in Swift](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage. ⏳ 
@@ -280,6 +281,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Pixel Art Maker](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art.
 * [SwiftCoin](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
 * [SentimentlySwift](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift. 
+* [Rubik's Cube](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁 
 * [Game Boards](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟 ⏳
 * [StarWars Seals](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews. ⏳
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground. ⏳

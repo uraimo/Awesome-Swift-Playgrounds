@@ -424,3 +424,9 @@
 [submodule "playgrounds/cl7/Astronomy"]
 	path = playgrounds/cl7/Astronomy
 	url = https://github.com/cl7/Astronomy.git
+[submodule "playgrounds/iamleeg/OOPInFPInSwift"]
+	path = playgrounds/iamleeg/OOPInFPInSwift
+	url = https://github.com/iamleeg/OOPInFPInSwift.git
+[submodule "playgrounds/codelynx/CoreRubiksCube"]
+	path = playgrounds/codelynx/CoreRubiksCube
+	url = https://github.com/codelynx/CoreRubiksCube.git
