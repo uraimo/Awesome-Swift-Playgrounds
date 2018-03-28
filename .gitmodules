@@ -19,9 +19,6 @@
 [submodule "playgrounds/sivragav/swift-reference-pg"]
 	path = playgrounds/sivragav/swift-reference-pg
 	url = https://github.com/sivragav/swift-reference-pg
-[submodule "playgrounds/austinzheng/swift-worksheets"]
-	path = playgrounds/austinzheng/swift-worksheets
-	url = https://github.com/austinzheng/swift-worksheets
 [submodule "playgrounds/developerY/Swift2_Playgrounds"]
 	path = playgrounds/developerY/Swift2_Playgrounds
 	url = https://github.com/developerY/Swift2_Playgrounds
