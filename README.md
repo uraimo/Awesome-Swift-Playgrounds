@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![144 playgrounds](https://img.shields.io/badge/Playgrounds:-144-orange.svg) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20more%20than%20150%20Awesome%20Swift%20Playgrounds&url=https://github.com/uraimo/Awesome-Swift-Playgrounds&via=uraimo)
+# Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![145 playgrounds](https://img.shields.io/badge/Playgrounds:-145-orange.svg) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20more%20than%20150%20Awesome%20Swift%20Playgrounds&url=https://github.com/uraimo/Awesome-Swift-Playgrounds&via=uraimo)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -77,6 +77,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.
 * [MPCS51032 UChicago iOS Course](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - Playgrounds from the 2017 Spring iOS course of the University of Chicago.
 * [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
+* [Accessibility](https://github.com/xReee/wwdc2018) - Accessibility for iOS developpers. 🍁 
 
 ## Learning Swift: Advanced Topics
 *Advanced topics, useful once you have mastered the basics of the language*
