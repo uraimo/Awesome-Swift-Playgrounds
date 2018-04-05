@@ -427,3 +427,6 @@
 [submodule "playgrounds/codelynx/CoreRubiksCube"]
 	path = playgrounds/codelynx/CoreRubiksCube
 	url = https://github.com/codelynx/CoreRubiksCube.git
+[submodule "playgrounds/filip-zielinski/CodablePlayground"]
+	path = playgrounds/filip-zielinski/CodablePlayground
+	url = https://github.com/filip-zielinski/CodablePlayground
