@@ -118,9 +118,6 @@
 [submodule "playgrounds/ashokgelal/AlgorithmsPlayground"]
 	path = playgrounds/ashokgelal/AlgorithmsPlayground
 	url = https://github.com/ashokgelal/AlgorithmsPlayground
-[submodule "playgrounds/evansjohnson/DynamicProgrammingWithSwift"]
-	path = playgrounds/evansjohnson/DynamicProgrammingWithSwift
-	url = https://github.com/evansjohnson/DynamicProgrammingWithSwift
 [submodule "playgrounds/kyleweiner/Jelly-Bean-Problem"]
 	path = playgrounds/kyleweiner/Jelly-Bean-Problem
 	url = https://github.com/kyleweiner/Jelly-Bean-Problem
