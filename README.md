@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![147 playgrounds](https://img.shields.io/badge/Playgrounds:-147-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![146 playgrounds](https://img.shields.io/badge/Playgrounds:-146-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -188,7 +188,6 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.🌟
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [UIKit playground](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views.
-* [Checkmark Button](https://github.com/BilalReffas/CheckmarkButton) - Animated check mark button.
 * [UIDynamic Playground](https://github.com/andresbrun/UIDynamicsPlayground) - Multiple Playgrounds using almost every behaviour of UIDynamic.
 * [WWDC16 Typography](https://github.com/tototti/wwdc16_typography_playground) 🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.  
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.

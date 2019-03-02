@@ -142,9 +142,6 @@
 [submodule "playgrounds/ralfebert/uikit-playground"]
 	path = playgrounds/ralfebert/uikit-playground
 	url = https://github.com/ralfebert/uikit-playground
-[submodule "playgrounds/BilalReffas/CheckmarkButton"]
-	path = playgrounds/BilalReffas/CheckmarkButton
-	url = https://github.com/BilalReffas/CheckmarkButton
 [submodule "playgrounds/steventroughtonsmith/windowmanager-playgroundbook"]
 	path = playgrounds/steventroughtonsmith/windowmanager-playgroundbook
 	url = https://github.com/steventroughtonsmith/windowmanager-playgroundbook
