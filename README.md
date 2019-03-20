@@ -33,6 +33,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
   - [Protocol Oriented Programming](#protocol-oriented-programming)
   - [Functional Reactive Programming](#functional-reactive-programming)
 - [Apple's Playgrounds](#apples-playgrounds)
+- [WWDC Students Submissions](#wwdc-students-submissions)
 - [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
 - [Playgrounds from Playgroundbooks](#playgrounds-from-playgroundbooks)
 - [Theoretical Computer Science](#theoretical-computer-science)
@@ -124,6 +125,15 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Apple's Balloons Playground](https://developer.apple.com/swift/blog/downloads/Balloons.zip) - The balloons playground showed at WWDC14. ⏳ 
 * [Apple's Crustacean Playground](https://developer.apple.com/sample-code/wwdc/2015/downloads/Crustacean.zip) - Protocol-Oriented Programming with Value Types. ⏳ 
 * [Apple's Swift Standard Library Playground](https://developer.apple.com/sample-code/swift/downloads/Standard-Library.zip) - experiment with Swift standard library types and high-level concepts using visualizations and practical examples. ⏳ 
+
+## WWDC Students Submissions
+*Playgrounds submitted by students for the WWDC scholarship*
+
+- [2018](https://github.com/wwdc/2018)
+- [2017](https://github.com/wwdc/2017)
+- [2016](https://github.com/wwdc/2016)
+- [2015](https://github.com/wwdc/2015)
+- [2014](https://github.com/wwdc/2014)
 
 ## Playgrounds about Playgrounds
 *Playgrounds that describe what you can do with playgrounds*
