@@ -424,3 +424,6 @@
 [submodule "playgrounds/filip-zielinski/CodablePlayground"]
 	path = playgrounds/filip-zielinski/CodablePlayground
 	url = https://github.com/filip-zielinski/CodablePlayground
+[submodule "playgrounds/kentzo/CoreAnimationTiming"]
+	path = playgrounds/kentzo/CoreAnimationTiming
+	url = https://github.com/Kentzo/CoreAnimationTiming.git
