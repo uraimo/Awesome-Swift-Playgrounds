@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![150 playgrounds](https://img.shields.io/badge/Playgrounds:-150-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![151 playgrounds](https://img.shields.io/badge/Playgrounds:-151-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -235,6 +235,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Duet-Inspired Trail Effect](https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground) - How to get a Duet style trailing effect in SpriteKit.
 * [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation. ⏳
 * [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide. ⏳
+* [Core Animation Timing](https://github.com/Kentzo/CoreAnimationTiming) - Playground demonstrating effects of CAMediaTiming properties. 🍁
 
 ### SpriteKit
 
