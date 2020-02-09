@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![151 playgrounds](https://img.shields.io/badge/Playgrounds:-151-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![154 playgrounds](https://img.shields.io/badge/Playgrounds:-154-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -69,6 +69,9 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Image Filtering](https://github.com/lennet/image-filtering) - A Swift playgroundbook about Image Filtering. 🍁🌟
 * [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟
 * [Neural Network](https://github.com/lennet/neuralnetwork) - A Swift PlaygroundBook about Neural Networks. 🍁
+* [coreml-playground](https://github.com/kkk669/coreml-playground) - Core ML examples for Swift Playgrounds. 🍁
+* [SF Symbols Viewer](https://github.com/kkk669/SF-Symbols-Viewer) - An SF Symbols Viewer for Swift Playgrounds. 🍁
+* [jscore-playground](https://github.com/kkk669/jscore-playground) - A JavaScript REPL using JavaScriptCore. 🍁
 
 
 ## Learning Swift
