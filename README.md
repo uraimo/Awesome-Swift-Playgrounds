@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![154 playgrounds](https://img.shields.io/badge/Playgrounds:-154-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![155 playgrounds](https://img.shields.io/badge/Playgrounds:-155-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
