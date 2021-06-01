@@ -72,6 +72,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [coreml-playground](https://github.com/kkk669/coreml-playground) - Core ML examples for Swift Playgrounds. 🍁
 * [SF Symbols Viewer](https://github.com/kkk669/SF-Symbols-Viewer) - An SF Symbols Viewer for Swift Playgrounds. 🍁
 * [jscore-playground](https://github.com/kkk669/jscore-playground) - A JavaScript REPL using JavaScriptCore. 🍁
+* [Accessible Reality](https://github.com/aheze/AccessibleReality) - for learning the basics of ARKit through interactive lessons. 🍁
 
 
 ## Learning Swift
