@@ -140,6 +140,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ## WWDC Students Submissions
 *Playgrounds submitted by students for the WWDC scholarship*
 
+- [2022](https://github.com/wwdc/2022)
 - [2021](https://github.com/wwdc/2021)
 - [2020](https://github.com/wwdc/2020)
 - [2019](https://github.com/wwdc/2019)
