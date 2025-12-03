@@ -1,4 +1,4 @@
-# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![156 playgrounds](https://img.shields.io/badge/Playgrounds:-156-orange.svg)
+# Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![157 playgrounds](https://img.shields.io/badge/Playgrounds:-157-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -69,6 +69,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ## PlaygroundBooks
 *Playgrounds that can be run on your iPad*
 
+* [Aarondoran,s Collection](https://github.com/Aarondoran/Swiftplayground-games) - My collection of playground games. 🍁
 * [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
 * [Accessibility](https://github.com/xReee/wwdc2018) - Accessibility for iOS developers. 🍁 
 * [TJBot Playground](https://github.com/jweisz/tjbot-playground) - Swift Playground for interacting with IBM's TJBot. 🍁
