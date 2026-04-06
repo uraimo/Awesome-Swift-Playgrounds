@@ -2,6 +2,7 @@
 
 > A curated list of awesome Swift playgrounds.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Swift Playground workflow orchestration, automated learning management, and multi-agent coordination. MIT licensed.
 ### Contributing
 
 Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors); you rock!
