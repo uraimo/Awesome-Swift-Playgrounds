@@ -247,6 +247,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 
 ## Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native Swift experiment displaying current audio metadata.
 *Sounds and music*
 
 * [Bach Playground](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
